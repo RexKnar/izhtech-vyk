@@ -338,10 +338,13 @@
 	color: var(--white-color);
 }
 
-.main-header.header-style-three.fixed-header .header-lower{
-	background-color: var(--color-two);
+.main-header.header-style-three.fixed-header .header-lower {
+	background-color: var(--white-color);
 }
 
+.main-header.header-style-three.fixed-header .header-lower .main-menu .navigation > li > a{
+color: var(--black-color);
+}
 .header-top_nav{
 	position: relative;
 	display: inline-block;

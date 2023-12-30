@@ -601,7 +601,7 @@
 .about-one_lists li{
 	position: relative;
 	font-weight: 600;
-	color: var(--color-two);
+	color: var(--black-color);
 	font-size: var(--font-18);
 	padding-left: var(--padding-left-30);
 	margin-bottom: var(--margin-bottom-20);
@@ -4020,7 +4020,7 @@
 	right: 0px;
 	height: 38px;
 	z-index: -1;
-	background: url(../images/main-slider/title_separate.png) no-repeat;
+	/* background: url(../images/main-slider/title_separate.png) no-repeat; */
 }
 
 .slider-three_heading::before{
@@ -4380,7 +4380,7 @@
 .fluid-two_text{
 	position: relative;
 	line-height: 30px;
-	color: var(--color-two);
+	color: var(--black-color);
 	font-size: var(--font-16);
 }
 
@@ -4888,7 +4888,7 @@
 .counter-two .inner-container{
 	position: relative;
 	padding: 70px 0px 40px;
-	border-bottom: 1px solid rgba(var(--black-color-rgb), 0.10);
+	/* border-bottom: 1px solid rgba(var(--black-color-rgb), 0.10); */
 }
 
 .counter-block_two{
@@ -5067,7 +5067,6 @@
 	font-weight: 700;
 	color: var(--color-two);
 	font-size: var(--font-18);
-	text-transform: uppercase;
 	-webkit-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
