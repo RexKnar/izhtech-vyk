@@ -68,12 +68,12 @@
 :root {
 	
 	/* #33995a in decimal RGB */
-    --main-color: rgb(51,153,90);
-    --main-color-rgb:223,3,3;
+    --main-color: rgb(76, 223, 132);
+    --main-color-rgb:76, 223, 132;
   
     /* #266FF2 in decimal RGB */
-    --color-two: rgb(1,12,58);
-    --color-two-rgb:1,12,58;
+    --color-two: rgb(38, 111, 242);
+    --color-two-rgb:38, 111, 242; 
     
     /* #666666 in decimal RGB */
     --color-three: rgb(102,102,102);
