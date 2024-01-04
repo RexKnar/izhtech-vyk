@@ -30,8 +30,8 @@
 	top: 0px;
 	bottom: 0px;
 	width: 135%;
-	background: var(--color-two);
-	background: linear-gradient(to right, var(--color-two) 0%, var(--main-color) 100%);
+	background: rgb(16,26,77);;
+	background: linear-gradient(to right, rgb(16,26,77); 0%, var(--main-color) 100%);
 }
 
 /* Header List */
@@ -82,7 +82,7 @@
 	top: 0px;
 	width: 200%;
 	bottom: 0px;
-	background-color: var(--color-two);
+	background-color: rgb(16,26,77);;
 }
 
 .header-top_list{
@@ -136,7 +136,7 @@
 }
 
 .header-social_box a:hover{
-	color: var(--color-two);
+	color: rgb(16,26,77);;
 }
 
 .header-style-one.fixed-header .header-lower .inner-container{
@@ -273,7 +273,7 @@
 }
 
 .header-phone_box a:hover{
-	color: var(--color-two);
+	color: rgb(16,26,77);;
 }
 
 /* Header Style Two */
@@ -289,7 +289,7 @@
 .header-style-two .header-phone_box{
 	top: 0px;
 	padding: 25.5px 30px;
-	background-color: var(--color-two);
+	background-color: rgb(16,26,77);;
 }
 
 .header-style-two .header-phone_box a,
@@ -989,7 +989,7 @@ color: var(--black-color);
 	margin:17px 0px;
 	letter-spacing:1px;
 	font-size:var(--font-14);
-	color:var(--color-two);
+	color:rgb(16,26,77);;
 	text-transform:capitalize;
 }
 
@@ -1092,7 +1092,7 @@ color: var(--black-color);
   /* align-self: flex-end; */
   height: 2px;
   width: 83.33333333%;
-  background: var(--color-two);
+  background: rgb(16,26,77);;
   transition: all 400ms ease-in-out;
 }
 
@@ -2181,7 +2181,7 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
 .about-sidebar .social-box a{
 	position:relative;
 	margin-right:15px;
-	color:var(--color-two);
+	color:rgb(16,26,77);;
 	font-size:var(--font-18);
 	font-family: 'Font Awesome 5 Brands';
 }
@@ -2218,7 +2218,7 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
 .about-one_list li{
 	position:relative;
 	font-weight:500;
-	color:var(--color-two);
+	color:rgb(16,26,77);;
 	font-size:var(--font-16);
 	padding-left:var(--padding-left-30);
 	margin-bottom:var(--margin-bottom-15);

@@ -323,6 +323,6 @@
 }
 
 .dark-body .sidebar-info-contents .price{
-	color:var(--color-two);
+	color:rgb(16,26,77);;
 	background-color: var(--white-color);
 }
