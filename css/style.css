@@ -1115,7 +1115,7 @@
 .gallery-one{
 	position: relative;
 	padding: 110px 0px 0px;
-	background-color: var(--color-six);
+	/* background-color: var(--color-six); */
 }
 
 .gallery-block_one{
