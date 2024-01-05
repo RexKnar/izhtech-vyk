@@ -485,7 +485,7 @@ body {
 	background-color:#ffffff;
 	background-position:center center;
 	background-repeat:no-repeat;
-	background-image:url(../images/icons/preloader.svg);
+	background-image:url(../images/icons/loader.gif);
 	background-size:120px;
 }
 
@@ -855,7 +855,7 @@ img{
     bottom: -50px;
 	
 	border-radius: 50%;
-	background-color: var(--color-two);
+	background-color: rgb(16,26,77);;
     transition:all 600ms ease;
 	-moz-transition:all 600ms ease;
 	-webkit-transition:all 600ms ease;
@@ -921,7 +921,7 @@ img{
 	color: var(--white-color);
 	font-size: var(--font-14);
 	text-transform: uppercase;
-    background-color: var(--color-two);
+    background-color: rgb(16,26,77);;
 }
 
 .btn-style-three::before{
@@ -935,7 +935,7 @@ img{
     bottom: -50px;
 	
 	border-radius: 50%;
-	background-color: var(--color-two);
+	background-color: rgb(16,26,77);;
     transition:all 600ms ease;
 	-moz-transition:all 600ms ease;
 	-webkit-transition:all 600ms ease;
@@ -975,7 +975,7 @@ img{
 	position: absolute;
     top: 100%;
     display: block;
-	color: var(--color-two);
+	color: rgb(16,26,77);;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -1002,7 +1002,7 @@ img{
 	color: var(--white-color);
 	font-size: var(--font-14);
 	text-transform: uppercase;
-    background-color: var(--color-two);
+    background-color: rgb(16,26,77);;
 }
 
 .btn-style-four::before{
@@ -1016,7 +1016,7 @@ img{
     bottom: -50px;
 	
 	border-radius: 50%;
-	background-color: var(--color-two);
+	background-color: rgb(16,26,77);;
     transition:all 600ms ease;
 	-moz-transition:all 600ms ease;
 	-webkit-transition:all 600ms ease;
@@ -1056,7 +1056,7 @@ img{
 	position: absolute;
     top: 100%;
     display: block;
-	color: var(--color-two);
+	color: rgb(16,26,77);;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -1980,7 +1980,7 @@ img{
 	line-height:28px;
     font-weight: 500;
     border-radius: 5px;
-    color:var(--color-two);
+    color:rgb(16,26,77);;
 	font-size:var(--font-16);
 	background-color:var(--white-color);
 }
@@ -2006,7 +2006,7 @@ img{
 	font-weight:800;
 	text-align:center;
 	z-index:5;
-	color:var(--color-two);
+	color:rgb(16,26,77);;
     font-family: 'Font Awesome 5 Pro';
 }
 
