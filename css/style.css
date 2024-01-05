@@ -600,7 +600,7 @@
 
 .about-one_lists li{
 	position: relative;
-	font-weight: 600;
+	font-weight: 400;
 	color: var(--black-color);
 	font-size: var(--font-18);
 	padding-left: var(--padding-left-30);
@@ -3997,7 +3997,7 @@
 
 	opacity: 0;
 	line-height: 94px;
-	font-size: var(--font-84);
+	font-size: 55px;
 	transform:translateY(100px);
 	transition:all 900ms ease;
 	-moz-transition:all 900ms ease;
