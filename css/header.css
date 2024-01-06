@@ -16,6 +16,7 @@
 
 .header-top{
 	position: relative;
+	background-color: #ffffff4f;
 }
 
 .header-top .inner-container{
@@ -194,6 +195,7 @@
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
+	background-color: #ffffff4f;
 }
 
 .main-header .header-lower .inner-container{
