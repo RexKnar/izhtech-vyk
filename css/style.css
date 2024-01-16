@@ -596,6 +596,7 @@
 
 .about-one_lists{
 	position: relative;
+	text-align: justify;
 }
 
 .about-one_lists li{
@@ -1401,6 +1402,7 @@
 
 .fluid-one_text{
 	position: relative;
+	text-align: justify;
 	line-height: 28px;
 	color: var(--color-three);
 	font-size: var(--font-16);
@@ -4380,6 +4382,7 @@
 .fluid-two_text{
 	position: relative;
 	line-height: 30px;
+	text-align: justify;
 	color: var(--black-color);
 	font-size: var(--font-16);
 }
