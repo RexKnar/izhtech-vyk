@@ -556,9 +556,9 @@ h1{
 }
 
 h2{
-	line-height:58px;
+	line-height:45px;
 	font-weight:500;
-	font-size:var(--font-48);
+	font-size:var(--font-40);
 }
 
 h3{
