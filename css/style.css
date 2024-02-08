@@ -2280,21 +2280,19 @@
 
 .about-two_pattern{
 	position: absolute;
-	left: -80px;
-	top: -60px;
-	right: -30px;
-	bottom: -60px;
-	background-position: center right;
-	background-repeat: no-repeat;
-	background-size: 300px;
+    left: -83px;
+    top: -60px;
+    right: 113px;
+    bottom: -56px;
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: 31em;
 }
-.service_img{
-	width: 57% !important;
+.service-img{
+	width: 350px !important;
+    margin-left: 95px !important;
 }
 
-.testimonial-two_color-layer{
-	left: 8px;
-}
 .about-two_curve{
 	position: absolute;
 	left: 50px;
@@ -2318,13 +2316,13 @@
 
 .about-two_icon{
 	position: absolute;
-	left: -70px;
-	bottom: 80px;
-	width: 145px;
-	height: 145px;
+	left: 45px;
+    bottom: 50px;
+    width: 120px;
+    height: 115px;
 	text-align: center;
 	border-radius: 100px;
-	line-height: 145px;
+	line-height: 109px;
 	font-size: var(--font-80);
 	color: var(--main-color);
 	font-family: "flaticon_monic-flat";
@@ -3384,14 +3382,19 @@
 
 .testimonial-two_color-layer{
 	position: absolute;
-	left: 0px;
-	top: 0px;
-	width: 220px;
-	bottom: 0px;
+    left: 55px;
+    top: 0px;
+    width: 220px;
+    bottom: 0px;
 	opacity: 0.60;
 	z-index: 1;
 	transform: skewX(20deg);
 	background-color: var(--main-color);
+}
+
+.product-img{
+	margin-left: 130px !important;
+	max-width: 80% !important;
 }
 
 .testimonial-two_customer{
