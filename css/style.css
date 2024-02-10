@@ -5820,9 +5820,9 @@
 .page-title_two{
 	position:relative;
 	background-size:cover;
-	padding:150px 0px 150px;
+	padding:100px 0px 100px;
 	background-attachment: fixed;
-	background-position: right center;
+	background-position: left center;
 }
 
 .page-title_two:before{
@@ -5842,7 +5842,7 @@
 	top: 0px;
 	bottom: 0px;
 	right: 0px;
-	background-position: left top;
+	background-position: left center;
 	background-repeat: repeat-y;
 }
 
