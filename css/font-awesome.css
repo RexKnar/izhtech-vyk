@@ -537,6 +537,7 @@ readers do not read off random characters that represent icons */
 
 .fa-arrow-circle-right:before {
   content: "\f0a9";
+  color: #4cdf84;
 }
 
 .fa-arrow-circle-up:before {
