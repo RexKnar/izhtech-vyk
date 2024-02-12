@@ -1149,6 +1149,8 @@
 .gallery-block_one-inner{
 	position: relative;
 	overflow: hidden;
+	border: 1px solid #4cdf84;
+	border-radius: 15px;
 }
 
 .gallery-block_one-image{
@@ -1181,6 +1183,13 @@
     -ms-transform-origin: right center;
     transform-origin: right center;
 	background-color:rgba(var(--color-two-rgb), 0.70);
+	border-radius: 15px;
+	opacity: .5;
+}
+
+.gallery-block_one-inner:hover{
+	color: #ffffff;
+	transition:.3s ease-in-out;
 }
 
 .gallery-block_one-inner:hover .gallery-block_one-overlay{
@@ -1190,6 +1199,8 @@
     -webkit-transform-origin: left center;
     -ms-transform-origin: left center;
     transform-origin: left center;
+	opacity: .5;
+	border-radius: 15px;
 }
 
 .gallery-block_one-meta{
@@ -1225,7 +1236,7 @@
 	position: relative;
 	font-weight: 500;
 	letter-spacing: 1px;
-	color: var(--main-color);
+	/* color: var(--main-color); */
 	text-transform: uppercase;
 	font-size: var(--font-16);
 }
@@ -1244,7 +1255,24 @@
 .gallery-block_one-heading a:hover{
 	color: var(--main-color);
 }
+.grid-item{
+	padding: 20px;
+}
 
+.button-border{
+	border-right: 1px solid #4cdf84;
+    border-radius: 0px;
+    height: 55px;
+}
+
+.btn-group>.btn:hover{
+	border-color: #4cdf84;
+	transition: .5s ease-in-out;
+}
+
+.btn-group>.btn:active,.btn-group>.btn:focus{
+	border-color: #4cdf84;
+}
 /* Gallery Block One Play */
 
 .gallery-block_one-play{
@@ -6816,7 +6844,7 @@
 
 .projects-one{
 	position: relative;
-	padding: 110px 0px 80px;
+	padding: 0px 0px 80px;
 }
 
 /*** 
