@@ -501,7 +501,8 @@
 
 .about-one{
 	position: relative;
-	padding-bottom: var(--padding-bottom-80);
+	/* padding-bottom: var(--padding-bottom-80); */
+	padding: 90px 0px;
 }
 
 .about-one_image-column{
@@ -515,7 +516,7 @@
 
 .about-one_image{
 	position: relative;
-	z-index: 1;
+	z-index: -2;
 	display: inline-block;
 	margin-left: -80px;
 }
@@ -1260,9 +1261,13 @@
 }
 
 .button-border{
-	border-right: 1px solid #4cdf84;
+	border-bottom: 1px solid #4cdf84;
     border-radius: 0px;
-    height: 55px;
+    /* height: 55px; */
+}
+.btn-group{
+	flex-wrap: wrap;
+	gap: 15px;
 }
 
 .btn-group>.btn:hover{
@@ -1406,7 +1411,8 @@
 }
 
 .fluid-one .left-box{
-	position: absolute;
+	/* position: absolute; */
+	float: right;
 	left: 0px;
 	top: 0px;
 	width: 50%;
@@ -1415,8 +1421,8 @@
 }
 
 .fluid-one_image{
-	position: relative;
-	display: none;
+	/* position: relative; */
+	/* display: none; */
 }
 
 .fluid-one_image img{
@@ -1429,7 +1435,6 @@
 	position: relative;
 	float: right;
 	width: 50%;
-	padding: 80px 15px 80px 60px;
 }
 
 .fluid-one .sec-title{
@@ -1439,6 +1444,7 @@
 .fluid-one .right-box_inner{
 	position: relative;
 	max-width: 580px;
+	padding: 60px 0px;
 }
 
 .fluid-one_bold-text{
@@ -1728,7 +1734,7 @@
 }
 
 #card>img::before{
-	position: absolute;
+	/* position: absolute; */
 	top: 0;
 	left: -85%;
 	z-index: 99;
@@ -5134,7 +5140,7 @@
 
 .category-one_feature-icon{
 	position: relative;
-	line-height: 1em;
+	line-height: 1.5em;
 	color: var(--main-color);
 	font-size: var(--font-60);
 	-webkit-transition:all 500ms ease;
