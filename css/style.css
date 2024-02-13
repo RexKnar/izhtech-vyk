@@ -1264,6 +1264,9 @@
     border-radius: 0px;
     height: 55px;
 }
+.btn-group{
+	
+}
 
 .btn-group>.btn:hover{
 	border-color: #4cdf84;
@@ -1728,7 +1731,7 @@
 }
 
 #card>img::before{
-	position: absolute;
+	/* position: absolute; */
 	top: 0;
 	left: -85%;
 	z-index: 99;
@@ -5134,7 +5137,7 @@
 
 .category-one_feature-icon{
 	position: relative;
-	line-height: 1em;
+	line-height: 1.5em;
 	color: var(--main-color);
 	font-size: var(--font-60);
 	-webkit-transition:all 500ms ease;
