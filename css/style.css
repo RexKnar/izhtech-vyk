@@ -3467,7 +3467,7 @@
 .testimonial-two_carousel-column{
 	position: relative;
 	/* margin-bottom: var(--margin-bottom-30); */
-	padding: 90px 0px;
+	padding: 40px 20px;
 }
 
 .testimonial-two_carousel-outer{
@@ -5043,7 +5043,7 @@
 
 .category-one{
 	position: relative;
-	padding:110px 0px 70px;
+	padding:90px 0px 70px;
 }
 
 .category-one_content-column{
@@ -10593,7 +10593,7 @@
 
 .contact-page-section-two{
 	position:relative;
-	padding:80px 0px;
+	padding:40px 0px;
 }
 
 .contact-page-section-two .map-column{

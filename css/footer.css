@@ -231,6 +231,7 @@
 
 .footer_column{
 	position: relative;
+	width: 25%;
 	margin-bottom: var(--margin-bottom-30);
 }
 
