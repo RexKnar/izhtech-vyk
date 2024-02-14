@@ -353,7 +353,7 @@
 .service-block_one-inner{
 	height: 90px;
 	position: relative;
-	padding: 30px 30px;
+	padding: 20px 20px;
 	overflow: hidden;
 	background-color: var(--color-four);
 }
@@ -2294,7 +2294,7 @@
 .about-two{
 	position: relative;
 	overflow: hidden;
-	padding:140px 0px 80px;
+	padding:90px 0px 80px;
 }
 
 .about-two_image-column{
