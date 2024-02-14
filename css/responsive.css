@@ -1070,14 +1070,17 @@
 		word-wrap: break-word;
 	}
 	.contact-one_info-list li{
-		padding-left: 60px;
-		padding-top: 12px;
+		padding-left: 70px;
+		padding-top: 25px;
 	}
 	.contact-page-section-two .info li{
 		padding: 5px 0px 5px 0px;
 		padding-bottom: var(--padding-bottom-20);
 	}
 
+	.contact-page-section-two .info li .address-tab .address-item{
+		border: none;
+	}
 	.price-block_two-list li{
 		font-size: var(--font-16);
 	}

@@ -8343,9 +8343,9 @@
 	min-height: 80px;
 	color: var(--color-three);
 	font-size: var(--font-16);
-	padding-top: var(--padding-top-10);
+	padding-top: 25px;;
 	/* margin-bottom: var(--margin-bottom-20); */
-	padding-left: var(--padding-left-100);
+	padding-left:70px;
 }
 
 .contact-one_info-list li .icon{
