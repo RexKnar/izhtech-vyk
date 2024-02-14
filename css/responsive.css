@@ -647,7 +647,9 @@
 	.fiber-block_one-icon{
 		right: 20px;
 	}
-
+.about-two{
+	padding: 60px 0px 20px;
+}
 	.clock-wrapper,
 	.about-one_pattern,
 	.about-one_color-layer,
@@ -685,6 +687,10 @@
 
 	.about-two_price{
 		margin-top: var(--margin-top-30);
+	}
+	.service-img{
+		margin-left: 40px !important;
+		padding-top: 30px !important;
 	}
 
 	.gallery-two_pattern-two{
