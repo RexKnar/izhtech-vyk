@@ -808,7 +808,9 @@
 	.team-detail_two .contact-box{
 		padding: 30px 30px;
 	}
-
+	.contact-page-section-two .info-column .inner-column{
+		padding-left: 0px ;
+	}
 }
 
 @media only screen and (max-width: 479px) {
@@ -1067,9 +1069,12 @@
 	.contact-one_info-list li strong{
 		word-wrap: break-word;
 	}
-
+	.contact-one_info-list li{
+		padding-left: 60px;
+		padding-top: 12px;
+	}
 	.contact-page-section-two .info li{
-		padding-left: var(--padding-left-20);
+		padding: 5px 0px 5px 0px;
 		padding-bottom: var(--padding-bottom-20);
 	}
 
@@ -1105,6 +1110,26 @@
 	.shop-detail .prod-tabs .tab-btns .tab-btn{
 		padding: 13px 20px;
 		font-size: var(--font-16);
+	}
+	.testimonial-two_color-layer{
+		position: absolute;
+		left: 28px;
+		top: 0px;
+		width: 120px;
+		bottom: 0px;
+		opacity: 0.60;
+		z-index: 1;
+		transform: skewX(20deg);
+		background-color: var(--main-color);
+	}
+	.testimonial-two_carousel-column{
+		padding: 20px 10px;
+	}
+	.product-img{
+		margin-left: 64px !important;
+	}
+	.footer_column{
+		width: 100%;
 	}
 
 }
