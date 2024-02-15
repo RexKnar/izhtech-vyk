@@ -29,48 +29,461 @@
 </head>
 
 <body>
-<?php 
+  <?php
 
 
-$projects=
-[
-  array(
-    "project"=>"MOTROLLA",
-  "logo"=>"./images/resource/Motrola.png",
-  "title"=>"Drive test services",
-  "period"=>"2021 - ONGOING",
-  "description"=>[
-    ["title"=>'Country', 'value'=>' Oman'],
-  ["title"=>'Account', 'value'=>' Motorola'],
-  ["title"=>'Operator', 'value'=>' ROP,  Structured cabling and installation of Workstations']]
-  ),
-  array(
-    "project"=>"MOTROLLA",
-  "logo"=>"./images/resource/Motrola.png",
-  "title"=>"Civil Construction and FOC Installation",
-  "period"=>"2021 October – 2021 December",
-  "description"=>[
-    ["title"=>'Country', 'value'=>' Oman'],
-  ["title"=>'Account', 'value'=>' Motorola'],
-  ["title"=>'Operator', 'value'=>'  ROP and SQU Civil Work and FOC installation']
-  ]
-  ),
-  array(
-    "project"=>"MOTROLLA",
-  "logo"=>"./images/resource/Motrola.png",
-  "title"=>"Workstation Commissioning Project",
-  "period"=>"2021 - Ongoing",
-  "description"=>[
-    ["title"=>'Country', 'value'=>' Oman'],
-  ["title"=>'Account', 'value'=>' Motorola'],
-  ["title"=>'Operator', 'value'=>'  ROP,  Structured cabling and installation of Workstations']
-  ]
-  ),
-];
+  $projects =
+    [
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrola.png",
+        "title" => "Drive test services",
+        "period" => "2021 - ONGOING",
+        "description" => [
+          ["title" => 'Country', 'value' => ' Oman'],
+          ["title" => 'Account', 'value' => ' Motorolla'],
+          ["title" => 'Operator', 'value' => ' ROP,  Structured cabling and installation of Workstations']
+        ]
+      ),
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrola.png",
+        "title" => "Civil Construction and FOC Installation",
+        "period" => "2021 October – 2021 December",
+        "description" => [
+          ["title" => 'Country', 'value' => ' Oman'],
+          ["title" => 'Account', 'value' => ' Motorolla'],
+          ["title" => 'Operator', 'value' => 'ROP and SQU, Civil Work and FOC installation']
+        ]
+      ),
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrola.png",
+        "title" => "Workstation Commissioning Project",
+        "period" => "2021 - Ongoing",
+        "description" => [
+          ["title" => 'Country', 'value' => ' Oman'],
+          ["title" => 'Account', 'value' => ' Motorolla'],
+          ["title" => 'Operator', 'value' => '  ROP,  Structured cabling and installation of Workstations']
+        ]
+      ),
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrolla.png",
+        "title" => "ROP Etisalat Project",
+        "period" => "2019-Ongoing",
+        "description" => [
+          ["title" => 'Country', 'value' => 'Oman'],
+          ["title" => 'Account', 'value' => 'Motrolla'],
+          ["title" => 'Operator', 'value' => 'Oman, ROP Etisalat Project']
+        ]
+      ),
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrolla.png",
+        "title" => "Stage - 01: SBP( Site Build Pack)+LOS + Civil work validation Survey",
+        "period" => "2016 to On Going",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
+          ["title" => 'Country', 'value' => 'SBP + LOS and Site Survey']
+        ]
+      ),
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrolla.png",
+        "title" => "Stage - 2 : CME and TI supply and Installation work (Civil Construction of Tower Work + Telecom Supply and Installation Work)",
+        "period" => "2016 to On Going",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
+          ["title" => 'Country', 'value' => 'CME(Civil+Mechanical + Electrical) and Telecom Materials Supply Work']
+        ]
+      ),
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrolla.png",
+        "title" => "Maintenance Work (CME and Telecom work)",
+        "period" => "2016 to On Going",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
+          ["title" => 'Country', 'value' => 'CME(Civil+Mechanical + Electrical) and Telecom Materials Supply Work']
+        ]
+      ),
+      array(
+        "project" => "MOTROLLA",
+        "logo" => "./images/resource/Motrolla.png",
+        "title" => "Drive Test",
+        "period" => "2016 to On Going",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
+          ["title" => 'Country', 'value' => 'Drive test for indoor & outdoor equipments']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Ericsson RBS Service",
+        "period" => "2014 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Installation and commissioning of RBS and antenna for SRAN/LTE FDD/ LTE TDD/ 5G']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => ".ericsionimg",
+        "title" => "Ericsson MW Service",
+        "period" => "2014 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Includes site survey/Engineering, installation of MW indoor and outdoor unit, LOS verification, Testing commisioning and integration of MW indoor and outdoor system.']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Drive Test Services",
+        "period" => "2012 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'Country', 'value' => 'Supply of resource with dedicated car and tools for drive test for Ericsson.']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Ericsson O&M Rigger service",
+        "period" => "2016 - 2018",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Supply of resource with dedicated car for O&M services across all part of Oman.']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Drive Test Services",
+        "period" => "2012-Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'Country', 'value' => 'Supply of resource with dedicated car and tools for drive test for Ericsson.']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "CW & TI",
+        "period" => "2013-2014",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Implementation services - Frame Agreement",
+        "period" => "2013-2014",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Middle East"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'Country', 'value' => 'Service Offerings Mw Projects']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "TI/MW",
+        "period" => "2011-2012",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Ooredoo'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "CW & TI",
+        "period" => "2011-2012",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "TI/MW",
+        "period" => "2011-2012",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Resource Supply",
+        "period" => "2011-2012",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> ' Ooredoo'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Resource Supply",
+        "period" => "2010-2011",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> ' Ooredoo'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Resource Supply",
+        "period" => "2010-2011",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> ' Ooredoo'],
+          ["title" => 'Country', 'value' => 'Service Offerings Professional Services']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "TI",
+        "period" => "2010-2011",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment Services']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "TI",
+        "period" => "2010-2011",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "O & M",
+        "period" => "2010-2011",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Nawras'],
+          ["title" => 'Country', 'value' => 'Service Offerings Professional Services']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "CW & TI",
+        "period" => "2010-2011",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Nawras'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Installation /alignment &commissioning of M/w link",
+        "period" => "2009-2010",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Telecom Installation and commissioning /Mw ,Drive test/los/traffic Node",
+        "period" => "2009-2010",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Nawras'],
+          ["title" => 'Country', 'value' => 'Service Offerings Professional Services']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Ericsson SRAN & MW Project",
+        "period" => "2014-2015",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Service Offerings Installation & Commissioning of microwave links, SRAN.']
+        ]
+      ),
+      array(
+        "project" => "ERICSSON",
+        "logo" => "ericsionimg",
+        "title" => "Ericsson SRAN & MW Project",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Main Contractor', 'value' => 'Ericsson'],
+          ["title" => 'End Customer', 'value'=> 'MOD'],
+          ["title" => 'Country', 'value' => 'Service Offerings Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of microwave links, Installation of solar power system.']
+        ]
+      ),
+      array(
+        "project" => "OMANTEL",
+        "logo" => "omantelimg",
+        "title" => "Design , Supply & Installation of Telecom Towers",
+        "period" => "2019-Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Account', 'value' => 'Omantel'],
+          ["title" => 'Operator', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works- Oil Filed area.']
+        ]
+      ),
+      array(
+        "project" => "OMANTEL",
+        "logo" => "omantelimg",
+        "title" => "Boundary Walls & Chanilink fencing with Allied works",
+        "period" => "2016-2018",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Account', 'value' => 'Omantel'],
+          ["title" => 'Operator', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works at Various Omantel sites in the Sultanate of Oman.']
+        ]
+      ),
+      array(
+        "project" => "OMANTEL",
+        "logo" => "omantelimg",
+        "title" => "Security Fencing for GRDU",
+        "period" => "2016-2017",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Account', 'value' => 'Omantel'],
+          ["title" => 'Operator', 'value'=> 'Omantel'],
+          ["title" => 'Country', 'value' => 'Design , Supply & Installation of Security Fencing for GRDU at Various Omantel Sites.']
+        ]
+      ),
+      array(
+        "project" => "OMANTEL",
+        "logo" => "omantelimg",
+        "title" => "General Civil Works Maintenance",
+        "period" => "2015-2016",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Account', 'value' => 'Omantel'],
+          ["title" => 'Operator', 'value'=> 'Omantel, General Civil Works Maintenance at various Omantel Sites in the Sultanate of Oman.']
+        ]
+      ),
+      array(
+        "project" => "OMANTEL",
+        "logo" => "omantelimg",
+        "title" => "OMANTEL 500 Sites & USO Project",
+        "period" => "2014-2015",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Account', 'value' => 'Omantel'],
+          ["title" => 'Operator', 'value'=> 'Omantel, Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of 2G, 3G LTE.']
+        ]
+      ),
+      array(
+        "project" => "OTC",
+        "logo" => "otcimg",
+        "title" => "Design, Supply and Installation of Power Supply",
+        "period" => "2021 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Account', 'value' => 'OTC'],
+          ["title" => 'Operator', 'value'=> 'OTC, Maintenance of Telecom Towers']
+        ]
+      ),
+      array(
+        "project" => "OTC",
+        "logo" => "otcimg",
+        "title" => "Maintenance of Telecom Tower and Power Infrastructure",
+        "period" => "2020 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Account', 'value' => 'Oman Towers'],
+          ["title" => 'Operator', 'value'=> 'Oman Towers, Tower Construction and Power connection']
+        ]
+      ),
+      array(
+        "project" => "OTC",
+        "logo" => "otcimg",
+        "title" => "Turnkey Rooftop Site Supply and Construction",
+        "period" => "2018 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Operator/Consultant', 'value'=> 'VODFONE / OOREDOO/ OMANTEL, Special towers camouflage structures/ Moziaque towers'],
+        ]
+      ),
+      array(
+        "project" => "OTC",
+        "logo" => "otcimg",
+        "title" => "Structure, Monopoly, Supply, and Interaction",
+        "period" => "2018 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Operator/Consultant', 'value'=> 'VODFONE / OOREDOO/ OMANTEL, Special towers camouflage structures/ Moziaque towers'],
+        ]
+      ),
+      array(
+        "project" => "OTC",
+        "logo" => "otcimg",
+        "title" => "Maintenance of Telecom Tower Sites",
+        "period" => "2021 - Ongoing",
+        "description" => [
+          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Operator/Consultant', 'value'=> 'VODFONE / OOREDOO/ OMANTEL, Existing tower maintenance'],
+        ]
+      ),
+    ];
 
-$projects=$projects;
+  $projects = $projects;
 
-?>
+  ?>
   <div class="page-wrapper">
 
     <!-- Preloader -->
@@ -246,31 +659,36 @@ $projects=$projects;
         <!--filtering-->
         <div class="grid">
           <div class="grid-sizer">
-            <?php   foreach($projects as $project){
-// print_r($project);
+            <?php foreach ($projects as $project) {
+              // print_r($project);
               ?>
-            <div class="col-xs-12 col-sm-6 col-md-6 grid-item ">
-              <div class="gallery-block_one-inner">
-                <div class="gallery-block_one-overlay">
-                </div>
-                <div style="display: flex;">
-                  <img src="./images/resource/Motrola.png" alt="Avatar" style="width:25%; height:auto">
-                  <div>
-                    <h5 class="gallery-block_one-heading"><b><?php echo $project['title']; ?></b></h5>
-                    <h5 class="gallery-block_one-heading"><?php echo $project['period']; ?></h5>
+              <div class="col-xs-12 col-sm-6 col-md-6 grid-item ">
+                <div class="gallery-block_one-inner">
+                  <div class="gallery-block_one-overlay">
+                  </div>
+                  <div style="display: flex;">
+                    <img src="./images/resource/Motrola.png" alt="Avatar" style="width:25%; height:auto">
+                    <div>
+                      <h5 class="gallery-block_one-heading"><b>
+                          <?php echo $project['title']; ?>
+                        </b></h5>
+                      <h5 class="gallery-block_one-heading">
+                        <?php echo $project['period']; ?>
+                      </h5>
+                    </div>
+                  </div>
+                  <div class="p-3 m-0 text-justify gallery-block_one-heading fw-normal fs-6 split-in-left">
+                    <ul>
+                      <?php foreach ($project['description'] as $description) {
+                        echo "<li><b>" . $description['title'] . '</b>';
+                        echo $description['title'] ? " : " : '';
+                        echo $description['value'] . "</li>";
+                      } ?>
+                    </ul>
                   </div>
                 </div>
-                <div class="p-3 m-0 text-justify gallery-block_one-heading fw-normal fs-6 split-in-left">
-               <ul> <?php foreach( $project['description'] as $description){
-                  echo "<li><b>". $description['title'].'</b>';
-                  echo $description['title']? " : " : '';
-                  echo $description['value'] . "</li>";
-                } ?>
-                </ul>
-            </div>
-              </div>
 
-            </div>
+              </div>
 
             <?php } ?>
           </div>
@@ -288,77 +706,76 @@ $projects=$projects;
     <!-- Main Footer / Style Three -->
     <footer class="main-footer style-three" style="background-color: #4c4c4c;">
       <div class="auto-container">
-          <div class="inner-container">
-              <!-- Widgets Section -->
-              <div class="widgets-section">
-                  <div class="clearfix row">
+        <div class="inner-container">
+          <!-- Widgets Section -->
+          <div class="widgets-section">
+            <div class="clearfix row">
 
-                      <!-- Big Column -->
-                      <div class="big-column col-lg-12 col-md-12 col-sm-12">
-                          <div class="clearfix row justify-content-center">
+              <!-- Big Column -->
+              <div class="big-column col-lg-12 col-md-12 col-sm-12">
+                <div class="clearfix row justify-content-center">
 
-                              <!-- Footer Column -->
-                              <div class="mx-auto footer_column col-lg-4 col-md-6 col-sm-12">
-                                  <div class="footer-widget contact-widget">
-                                      <h5 class="footer-title">VYK Network LLC</h5>
-                                      <ul class="footer-contact_list">
-                                          <li><span class="icon fas fa-map-marker-alt fa-fw"></span>
-                                              AHCL Ansal Town,<br>Indore,
-                                              India.</li>
-                                          <li><span class="icon fas fa-envelope fa-fw"></span>info@vyknetwork.com
-                                          </li>
-                                          <li><span class="icon fas fa-phone fa-fw"></span>+91 9131755703</li>
-                                      </ul>
-                                  </div>
-                              </div>
-
-                              <!-- Footer Column -->
-                              <div class="mx-auto footer_column col-lg-4 col-md-6 col-sm-12">
-                                  <div class="footer-widget contact-widget">
-                                      <h5 class="footer-title">WE Netwok LLC</h5>
-                                      <ul class="footer-contact_list">
-                                          <li><span class="icon fas fa-map-marker-alt fa-fw"></span>First floor,
-                                              0401-Z-319-KOM-4,<br>
-                                              Knowledge Oasis Muscat,<br>PO BOX: 1641, Postal Code: 114,<br>Al
-                                              Rusayl, Muscat, Sultanate of Oman</li>
-                                          <li><span
-                                                  class="icon fas fa-envelope fa-fw"></span>info@wenetworkllc.com
-                                          </li>
-                                          <li><span class="icon fas fa-phone fa-fw"></span>+968 24170030</li>
-                                      </ul>
-
-                                  </div>
-                              </div>
-
-                              <!-- Footer Column -->
-                              <div class="mx-auto footer_column col-lg-4 col-md-6 col-sm-12">
-                                  <div class="m-auto footer-widget links-widget">
-                                      <h5 class="footer-title">Links</h5>
-                                      <ul class="footer-list">
-                                          <li><a href="index.html">Home</a></li>
-                                          <li><a href="about.html">About Us</a></li>
-                                          <li><a href="services.html">Services</a></li>
-                                          <li><a href="product.html">Products</a></li>
-                                          <li><a href="projects.html">Projects</a></li>
-                                          <li><a href="gallery.html">Gallery</a></li>
-                                          <li><a href="contact.html">Contact Us</a></li>
-
-                                      </ul>
-                                  </div>
-                              </div>
-
-                          </div>
-                      </div>
+                  <!-- Footer Column -->
+                  <div class="mx-auto footer_column col-lg-4 col-md-6 col-sm-12">
+                    <div class="footer-widget contact-widget">
+                      <h5 class="footer-title">VYK Network LLC</h5>
+                      <ul class="footer-contact_list">
+                        <li><span class="icon fas fa-map-marker-alt fa-fw"></span>
+                          AHCL Ansal Town,<br>Indore,
+                          India.</li>
+                        <li><span class="icon fas fa-envelope fa-fw"></span>info@vyknetwork.com
+                        </li>
+                        <li><span class="icon fas fa-phone fa-fw"></span>+91 9131755703</li>
+                      </ul>
+                    </div>
                   </div>
+
+                  <!-- Footer Column -->
+                  <div class="mx-auto footer_column col-lg-4 col-md-6 col-sm-12">
+                    <div class="footer-widget contact-widget">
+                      <h5 class="footer-title">WE Netwok LLC</h5>
+                      <ul class="footer-contact_list">
+                        <li><span class="icon fas fa-map-marker-alt fa-fw"></span>First floor,
+                          0401-Z-319-KOM-4,<br>
+                          Knowledge Oasis Muscat,<br>PO BOX: 1641, Postal Code: 114,<br>Al
+                          Rusayl, Muscat, Sultanate of Oman</li>
+                        <li><span class="icon fas fa-envelope fa-fw"></span>info@wenetworkllc.com
+                        </li>
+                        <li><span class="icon fas fa-phone fa-fw"></span>+968 24170030</li>
+                      </ul>
+
+                    </div>
+                  </div>
+
+                  <!-- Footer Column -->
+                  <div class="mx-auto footer_column col-lg-4 col-md-6 col-sm-12">
+                    <div class="m-auto footer-widget links-widget">
+                      <h5 class="footer-title">Links</h5>
+                      <ul class="footer-list">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="product.html">Products</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+
+                      </ul>
+                    </div>
+                  </div>
+
+                </div>
               </div>
+            </div>
           </div>
+        </div>
       </div>
       <div class="footer-bottom">
-          <div class="auto-container">
-              <div class="main-footer_copyright">Designed by <a href="#">Izh-tech</a></div>
-          </div>
+        <div class="auto-container">
+          <div class="main-footer_copyright">Designed by <a href="#">Izh-tech</a></div>
+        </div>
       </div>
-  </footer>
+    </footer>
     <!-- End Footer Style -->
 
 
