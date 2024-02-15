@@ -185,9 +185,11 @@
 
 .main-header .logo-box .logo{
 	position:relative;
-	padding: 20px 0px;
+	/* padding: 20px 0px; */
 }
-
+.header-logo{
+	width: 100px;
+}
 .main-header .header-lower{
 	position:relative;
 	transition:all 500ms ease;

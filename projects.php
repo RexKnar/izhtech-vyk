@@ -124,9 +124,9 @@
         "title" => "Ericsson RBS Service",
         "period" => "2014 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Installation and commissioning of RBS and antenna for SRAN/LTE FDD/ LTE TDD/ 5G']
         ]
       ),
@@ -136,9 +136,9 @@
         "title" => "Ericsson MW Service",
         "period" => "2014 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Includes site survey/Engineering, installation of MW indoor and outdoor unit, LOS verification, Testing commisioning and integration of MW indoor and outdoor system.']
         ]
       ),
@@ -148,9 +148,9 @@
         "title" => "Drive Test Services",
         "period" => "2012 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo'],
           ["title" => 'Country', 'value' => 'Supply of resource with dedicated car and tools for drive test for Ericsson.']
         ]
       ),
@@ -160,9 +160,9 @@
         "title" => "Ericsson O&M Rigger service",
         "period" => "2016 - 2018",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Supply of resource with dedicated car for O&M services across all part of Oman.']
         ]
       ),
@@ -172,9 +172,9 @@
         "title" => "Drive Test Services",
         "period" => "2012-Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo'],
           ["title" => 'Country', 'value' => 'Supply of resource with dedicated car and tools for drive test for Ericsson.']
         ]
       ),
@@ -184,9 +184,9 @@
         "title" => "CW & TI",
         "period" => "2013-2014",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -196,9 +196,9 @@
         "title" => "Implementation services - Frame Agreement",
         "period" => "2013-2014",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Middle East"],
+          ["title" => 'Country', 'value' => "Middle East"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel & Ooredoo'],
+          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo'],
           ["title" => 'Country', 'value' => 'Service Offerings Mw Projects']
         ]
       ),
@@ -208,9 +208,9 @@
         "title" => "TI/MW",
         "period" => "2011-2012",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Ooredoo'],
+          ["title" => 'End Customer', 'value' => 'Ooredoo'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -220,9 +220,9 @@
         "title" => "CW & TI",
         "period" => "2011-2012",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -232,9 +232,9 @@
         "title" => "TI/MW",
         "period" => "2011-2012",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -244,9 +244,9 @@
         "title" => "Resource Supply",
         "period" => "2011-2012",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> ' Ooredoo'],
+          ["title" => 'End Customer', 'value' => ' Ooredoo'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -256,9 +256,9 @@
         "title" => "Resource Supply",
         "period" => "2010-2011",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> ' Ooredoo'],
+          ["title" => 'End Customer', 'value' => ' Ooredoo'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -268,9 +268,9 @@
         "title" => "Resource Supply",
         "period" => "2010-2011",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> ' Ooredoo'],
+          ["title" => 'End Customer', 'value' => ' Ooredoo'],
           ["title" => 'Country', 'value' => 'Service Offerings Professional Services']
         ]
       ),
@@ -280,9 +280,9 @@
         "title" => "TI",
         "period" => "2010-2011",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment Services']
         ]
       ),
@@ -292,9 +292,9 @@
         "title" => "TI",
         "period" => "2010-2011",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -304,9 +304,9 @@
         "title" => "O & M",
         "period" => "2010-2011",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Nawras'],
+          ["title" => 'End Customer', 'value' => 'Nawras'],
           ["title" => 'Country', 'value' => 'Service Offerings Professional Services']
         ]
       ),
@@ -316,9 +316,9 @@
         "title" => "CW & TI",
         "period" => "2010-2011",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Nawras'],
+          ["title" => 'End Customer', 'value' => 'Nawras'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -328,9 +328,9 @@
         "title" => "Installation /alignment &commissioning of M/w link",
         "period" => "2009-2010",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
         ]
       ),
@@ -340,9 +340,9 @@
         "title" => "Telecom Installation and commissioning /Mw ,Drive test/los/traffic Node",
         "period" => "2009-2010",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Nawras'],
+          ["title" => 'End Customer', 'value' => 'Nawras'],
           ["title" => 'Country', 'value' => 'Service Offerings Professional Services']
         ]
       ),
@@ -352,9 +352,9 @@
         "title" => "Ericsson SRAN & MW Project",
         "period" => "2014-2015",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'Omantel'],
+          ["title" => 'End Customer', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Service Offerings Installation & Commissioning of microwave links, SRAN.']
         ]
       ),
@@ -363,9 +363,9 @@
         "logo" => "ericsionimg",
         "title" => "Ericsson SRAN & MW Project",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value'=> 'MOD'],
+          ["title" => 'End Customer', 'value' => 'MOD'],
           ["title" => 'Country', 'value' => 'Service Offerings Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of microwave links, Installation of solar power system.']
         ]
       ),
@@ -375,9 +375,9 @@
         "title" => "Design , Supply & Installation of Telecom Towers",
         "period" => "2019-Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'Omantel'],
-          ["title" => 'Operator', 'value'=> 'Omantel'],
+          ["title" => 'Operator', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works- Oil Filed area.']
         ]
       ),
@@ -387,9 +387,9 @@
         "title" => "Boundary Walls & Chanilink fencing with Allied works",
         "period" => "2016-2018",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'Omantel'],
-          ["title" => 'Operator', 'value'=> 'Omantel'],
+          ["title" => 'Operator', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works at Various Omantel sites in the Sultanate of Oman.']
         ]
       ),
@@ -399,9 +399,9 @@
         "title" => "Security Fencing for GRDU",
         "period" => "2016-2017",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'Omantel'],
-          ["title" => 'Operator', 'value'=> 'Omantel'],
+          ["title" => 'Operator', 'value' => 'Omantel'],
           ["title" => 'Country', 'value' => 'Design , Supply & Installation of Security Fencing for GRDU at Various Omantel Sites.']
         ]
       ),
@@ -411,9 +411,9 @@
         "title" => "General Civil Works Maintenance",
         "period" => "2015-2016",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'Omantel'],
-          ["title" => 'Operator', 'value'=> 'Omantel, General Civil Works Maintenance at various Omantel Sites in the Sultanate of Oman.']
+          ["title" => 'Operator', 'value' => 'Omantel, General Civil Works Maintenance at various Omantel Sites in the Sultanate of Oman.']
         ]
       ),
       array(
@@ -422,9 +422,9 @@
         "title" => "OMANTEL 500 Sites & USO Project",
         "period" => "2014-2015",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'Omantel'],
-          ["title" => 'Operator', 'value'=> 'Omantel, Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of 2G, 3G LTE.']
+          ["title" => 'Operator', 'value' => 'Omantel, Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of 2G, 3G LTE.']
         ]
       ),
       array(
@@ -433,9 +433,9 @@
         "title" => "Design, Supply and Installation of Power Supply",
         "period" => "2021 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'OTC'],
-          ["title" => 'Operator', 'value'=> 'OTC, Maintenance of Telecom Towers']
+          ["title" => 'Operator', 'value' => 'OTC, Maintenance of Telecom Towers']
         ]
       ),
       array(
@@ -444,9 +444,9 @@
         "title" => "Maintenance of Telecom Tower and Power Infrastructure",
         "period" => "2020 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
+          ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'Oman Towers'],
-          ["title" => 'Operator', 'value'=> 'Oman Towers, Tower Construction and Power connection']
+          ["title" => 'Operator', 'value' => 'Oman Towers, Tower Construction and Power connection']
         ]
       ),
       array(
@@ -455,8 +455,8 @@
         "title" => "Turnkey Rooftop Site Supply and Construction",
         "period" => "2018 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
-          ["title" => 'Operator/Consultant', 'value'=> 'VODFONE / OOREDOO/ OMANTEL, Special towers camouflage structures/ Moziaque towers'],
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Operator/Consultant', 'value' => 'VODFONE / OOREDOO/ OMANTEL, Special towers camouflage structures/ Moziaque towers'],
         ]
       ),
       array(
@@ -465,8 +465,8 @@
         "title" => "Structure, Monopoly, Supply, and Interaction",
         "period" => "2018 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
-          ["title" => 'Operator/Consultant', 'value'=> 'VODFONE / OOREDOO/ OMANTEL, Special towers camouflage structures/ Moziaque towers'],
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Operator/Consultant', 'value' => 'VODFONE / OOREDOO/ OMANTEL, Special towers camouflage structures/ Moziaque towers'],
         ]
       ),
       array(
@@ -475,8 +475,112 @@
         "title" => "Maintenance of Telecom Tower Sites",
         "period" => "2021 - Ongoing",
         "description" => [
-          ["title"=> 'Country', 'value'=> "Oman"],
-          ["title" => 'Operator/Consultant', 'value'=> 'VODFONE / OOREDOO/ OMANTEL, Existing tower maintenance'],
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Operator/Consultant', 'value' => 'VODFONE / OOREDOO/ OMANTEL, Existing tower maintenance'],
+        ]
+      ),
+      array(
+        "project" => "PDO",
+        "logo" => "pdoimg",
+        "title" => "Telecom Service - HP Wells",
+        "period" => "2020 - Ongoing",
+        "description" => [
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Account', 'value' => 'PDO'],
+          ["title" => 'Operator', 'value' => 'PDO, Installation, Blowing and termination of FOC']
+        ]
+      ),
+      array(
+        "project" => "PDO",
+        "logo" => "pdoimg",
+        "title" => "Supply of EXFO OLTS Test Unit",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Account', 'value' => 'PDO'],
+          ["title" => 'Operator', 'value' => 'PDO, Supply of EXFO OLTS Test Unit for PDO']
+        ]
+      ),
+      array(
+        "project" => "PDO",
+        "logo" => "pdoimg",
+        "title" => "FOC Installation, Configuration, Testing and Commissioning",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "PDO, IT/ TELECOMMUNICATION/ ICT"]
+        ]
+      ),
+      array(
+        "project" => "PDO",
+        "logo" => "pdoimg",
+        "title" => "Supply of EXFO OLTS MAX 945",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "PDO, IT/ TELECOMMUNICATION/ ICT"]
+        ]
+      ),
+      array(
+        "project" => "PDO",
+        "logo" => "pdoimg",
+        "title" => "DHULIMA - CCTV , FOC Integration Project",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => "PDO, IT/ TELECOMMUNICATION/ ICT"]
+        ]
+      ),
+      array(
+        "project" => "PDO",
+        "logo" => "pdoimg",
+        "title" => "FAAL -LEK",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => "PDO, IT/ TELECOMMUNICATION/ ICT"]
+        ]
+      ),
+      array(
+        "project" => "PDO",
+        "logo" => "pdoimg",
+        "title" => "Supply, Installation and Configuration complete ELV systems(CCTV, WIFI, Data, Analog Telephony, Networking, PABGM AMAL)",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => "PDO, IT/ TELECOMMUNICATION/ ICT"]
+        ]
+      ),
+      array(
+        "project" => "OOREDOO",
+        "logo" => "ooredooimg",
+        "title" => "Supply of OSP/FOC",
+        "period" => "2014-2020",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Ooredoo, Supply of OSP and FOC for Ooredoo projects']
+        ]
+      ),
+      array(
+        "project" => "OOREDOO",
+        "logo" => "ooredooimg",
+        "title" => "MW Linking at business sites",
+        "period" => "2014-2020",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Ooredoo, Microwave Linking at different business sites for ooredoo']
+        ]
+      ),
+      array(
+        "project" => "OOREDOO",
+        "logo" => "ooredooimg",
+        "title" => "MW Link - LOS/ Transmission Work/ LTE",
+        "period" => "2014-2020",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Ooredoo, MW Link, LOS transmission works, LTE FDD works for the new ooredoo sites.']
+        ]
+      ),
+      array(
+        "project" => "OOREDOO",
+        "logo" => "ooredooimg",
+        "title" => "Supply of OSP/FOC Consultant
+        ",
+        "period" => "2014-2020",
+        "description" => [
+          ["title" => 'Operator/Consultant', 'value' => 'Ooredoo, MW Link, LOS transmission works, LTE FDD works for the new ooredoo sites.']
         ]
       ),
     ];
