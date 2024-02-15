@@ -1137,4 +1137,7 @@
 	.grid-item{
 		padding: 0px;
 	}
+	.counter-column{
+		width:90%
+	}
 }
