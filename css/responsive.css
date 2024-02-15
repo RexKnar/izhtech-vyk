@@ -1134,5 +1134,7 @@
 	.footer_column{
 		width: 100%;
 	}
-
+	.grid-item{
+		padding: 0px;
+	}
 }
