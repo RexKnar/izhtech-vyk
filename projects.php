@@ -35,55 +35,37 @@
 $projects=
 [
   array(
+    "project"=>"MOTROLLA",
   "logo"=>"./images/resource/Motrola.png",
   "title"=>"Drive test services",
   "period"=>"2021 - ONGOING",
-  "description"=>"<h5 class=\"gallery-block_one-heading fw-normal fs-6 text-justify split-in-left m-0 p-3\">".
-  "Country: Oman <br>".
- " Account: Motorola<br>".
-  "Operator: ROP<br>".
-  "Structured cabling and installation of Workstations".
-"</h5>"
+  "description"=>[
+    ["title"=>'Country', 'value'=>' Oman'],
+  ["title"=>'Account', 'value'=>' Motorola'],
+  ["title"=>'Operator', 'value'=>' ROP,  Structured cabling and installation of Workstations']]
   ),
   array(
-    "logo"=>"./images/resource/Motrola.png",
-    "title"=>"Drive test services",
-    "period"=>"2021 - ONGOING",
-    "description"=>"<h5 class=\"gallery-block_one-heading fw-normal fs-6 text-justify split-in-left m-0 p-3\">".
-    "Country: Oman <br>".
-   " Account: Motorola<br>".
-    "Operator: ROP<br>".
-    "Structured cabling and installation of Workstations".
-  "</h5>"
-    ),
-    array(
-      "logo"=>"./images/resource/Motrola.png",
-      "title"=>"Drive test services",
-      "period"=>"2021 - ONGOING",
-      "description"=>"<h5 class=\"gallery-block_one-heading fw-normal fs-6 text-justify split-in-left m-0 p-3\">".
-      "Country: Oman <br>".
-     " Account: Motorola<br>".
-      "Operator: ROP<br>".
-      "Structured cabling and installation of Workstations".
-    "</h5>"
-      ),
-      array(
-        "logo"=>"./images/resource/Motrola.png",
-        "title"=>"Drive test services",
-        "period"=>"2021 - ONGOING",
-        "description"=>"<h5 class=\"gallery-block_one-heading fw-normal fs-6 text-justify split-in-left m-0 p-3\">".
-        "Country: Oman <br>".
-       " Account: Motorola<br>".
-        "Operator: ROP<br>".
-        "Structured cabling and installation of Workstations".
-      "</h5>"
-        ),
-array(
+    "project"=>"MOTROLLA",
   "logo"=>"./images/resource/Motrola.png",
-  "title"=>"",
-  "period"=>"",
-  "description"=>""
-)
+  "title"=>"Civil Construction and FOC Installation",
+  "period"=>"2021 October – 2021 December",
+  "description"=>[
+    ["title"=>'Country', 'value'=>' Oman'],
+  ["title"=>'Account', 'value'=>' Motorola'],
+  ["title"=>'Operator', 'value'=>'  ROP and SQU Civil Work and FOC installation']
+  ]
+  ),
+  array(
+    "project"=>"MOTROLLA",
+  "logo"=>"./images/resource/Motrola.png",
+  "title"=>"Workstation Commissioning Project",
+  "period"=>"2021 - Ongoing",
+  "description"=>[
+    ["title"=>'Country', 'value'=>' Oman'],
+  ["title"=>'Account', 'value'=>' Motorola'],
+  ["title"=>'Operator', 'value'=>'  ROP,  Structured cabling and installation of Workstations']
+  ]
+  ),
 ];
 
 $projects=$projects;
@@ -267,19 +249,25 @@ $projects=$projects;
             <?php   foreach($projects as $project){
 // print_r($project);
               ?>
-            <div class="col-xs-12 col-sm-6 col-md-4 grid-item MOTROLLA">
+            <div class="col-xs-12 col-sm-6 col-md-6 grid-item ">
               <div class="gallery-block_one-inner">
                 <div class="gallery-block_one-overlay">
                 </div>
                 <div style="display: flex;">
-                  <img src="./images/resource/Motrola.png" alt="Avatar" style="width:25%">
+                  <img src="./images/resource/Motrola.png" alt="Avatar" style="width:25%; height:auto">
                   <div>
                     <h5 class="gallery-block_one-heading"><b><?php echo $project['title']; ?></b></h5>
                     <h5 class="gallery-block_one-heading"><?php echo $project['period']; ?></h5>
                   </div>
                 </div>
-                <?php echo $project['description']; ?>
-                
+                <div class="p-3 m-0 text-justify gallery-block_one-heading fw-normal fs-6 split-in-left">
+               <ul> <?php foreach( $project['description'] as $description){
+                  echo "<li><b>". $description['title'].'</b>';
+                  echo $description['title']? " : " : '';
+                  echo $description['value'] . "</li>";
+                } ?>
+                </ul>
+            </div>
               </div>
 
             </div>
