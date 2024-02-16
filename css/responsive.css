@@ -1143,4 +1143,7 @@
 	.slider-three_image{
 		background-position: center;
 	}
+	.project-logos{
+		width: 20%;
+	}
 }
