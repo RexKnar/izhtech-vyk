@@ -10650,9 +10650,14 @@
 	border:1px solid rgba(var(--black-color-rgb), 0.10);
 	padding: 10px;
 }
-.contact-page-section-two .info li .address-tab .address-item{
+.contact-page-section-two .info li .address-tab {
 	border-right: 1px solid rgba(var(--black-color-rgb), 0.10);
     padding-right: 30px;
+}
+
+.address-item{
+	border-right: 1px solid rgba(var(--black-color-rgb), 0.10);
+    padding-right: 5px;
 }
 
 .contact-page-section-two .info li span{
