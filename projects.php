@@ -42,8 +42,9 @@
         "description" => [
           ["title" => 'Country', 'value' => ' Oman'],
           ["title" => 'Account', 'value' => ' Motorolla'],
-          ["title" => 'Operator', 'value' => ' ROP,  Structured cabling and installation of Workstations']
-        ]
+          ["title" => 'Operator', 'value' => ' ROP']
+        ],
+        "data" => "Structured cabling and installation of Workstations"
       ),
       array(
         "project" => "MOTROLLA",
@@ -53,8 +54,9 @@
         "description" => [
           ["title" => 'Country', 'value' => ' Oman'],
           ["title" => 'Account', 'value' => ' Motorolla'],
-          ["title" => 'Operator', 'value' => 'ROP and SQU, Civil Work and FOC installation']
-        ]
+          ["title" => 'Operator', 'value' => 'ROP and SQU']
+        ],
+        "data"=>"Civil Work and FOC installation"
       ),
       array(
         "project" => "MOTROLLA",
@@ -64,8 +66,9 @@
         "description" => [
           ["title" => 'Country', 'value' => ' Oman'],
           ["title" => 'Account', 'value' => ' Motorolla'],
-          ["title" => 'Operator', 'value' => '  ROP,  Structured cabling and installation of Workstations']
-        ]
+          ["title" => 'Operator', 'value' => '  ROP']
+        ],
+        "data"=> "Structured cabling and installation of Workstations"
       ),
       array(
         "project" => "MOTROLLA",
@@ -75,8 +78,9 @@
         "description" => [
           ["title" => 'Country', 'value' => 'Oman'],
           ["title" => 'Account', 'value' => 'Motrolla'],
-          ["title" => 'Operator', 'value' => 'Oman, ROP Etisalat Project']
-        ]
+          ["title" => 'Operator', 'value' => 'Oman,']
+        ],
+        "data"=>"ROP Etisalat Project"
       ),
       array(
         "project" => "MOTROLLA",
@@ -84,9 +88,9 @@
         "title" => "Stage - 01: SBP( Site Build Pack)+LOS + Civil work validation Survey",
         "period" => "2016 to On Going",
         "description" => [
-          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
-          ["title" => 'Country', 'value' => 'SBP + LOS and Site Survey']
-        ]
+          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop']
+        ],
+        "data"=>"SBP + LOS and Site Survey"
       ),
       array(
         "project" => "MOTROLLA",
@@ -95,8 +99,8 @@
         "period" => "2016 to On Going",
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
-          ["title" => 'Country', 'value' => 'CME(Civil+Mechanical + Electrical) and Telecom Materials Supply Work']
-        ]
+        ],
+        "data"=>"CME(Civil+Mechanical + Electrical) and Telecom Materials Supply Work"
       ),
       array(
         "project" => "MOTROLLA",
@@ -105,8 +109,8 @@
         "period" => "2016 to On Going",
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
-          ["title" => 'Country', 'value' => 'CME(Civil+Mechanical + Electrical) and Telecom Materials Supply Work']
-        ]
+        ],
+        "data"=>"CME(Civil+Mechanical + Electrical) and Telecom Materials Supply Work"
       ),
       array(
         "project" => "MOTROLLA",
@@ -114,9 +118,9 @@
         "title" => "Drive Test",
         "period" => "2016 to On Going",
         "description" => [
-          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop'],
-          ["title" => 'Country', 'value' => 'Drive test for indoor & outdoor equipments']
-        ]
+          ["title" => 'Operator/Consultant', 'value' => 'Motrolla/Rop']
+        ],
+        "data"=>"Drive test for indoor & outdoor equipments"
       ),
       array(
         "project" => "ERICSSON",
@@ -126,9 +130,9 @@
         "description" => [
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value' => 'Omantel'],
-          ["title" => 'Country', 'value' => 'Installation and commissioning of RBS and antenna for SRAN/LTE FDD/ LTE TDD/ 5G']
-        ]
+          ["title" => 'End Customer', 'value' => 'Omantel']
+        ],
+        "data"=>'Installation and commissioning of RBS and antenna for SRAN/LTE FDD/ LTE TDD/ 5G'
       ),
       array(
         "project" => "ERICSSON",
@@ -138,9 +142,9 @@
         "description" => [
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value' => 'Omantel'],
-          ["title" => 'Country', 'value' => 'Includes site survey/Engineering, installation of MW indoor and outdoor unit, LOS verification, Testing commisioning and integration of MW indoor and outdoor system.']
-        ]
+          ["title" => 'End Customer', 'value' => 'Omantel']
+        ],
+        "data"=>'Includes site survey/Engineering, installation of MW indoor and outdoor unit, LOS verification, Testing commisioning and integration of MW indoor and outdoor system.'
       ),
       array(
         "project" => "ERICSSON",
@@ -150,9 +154,9 @@
         "description" => [
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo'],
-          ["title" => 'Country', 'value' => 'Supply of resource with dedicated car and tools for drive test for Ericsson.']
-        ]
+          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo']
+        ],
+        "data"=>'Supply of resource with dedicated car and tools for drive test for Ericsson.'
       ),
       array(
         "project" => "ERICSSON",
@@ -162,9 +166,9 @@
         "description" => [
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value' => 'Omantel'],
-          ["title" => 'Country', 'value' => 'Supply of resource with dedicated car for O&M services across all part of Oman.']
-        ]
+          ["title" => 'End Customer', 'value' => 'Omantel']
+        ],
+        "data"=>'Supply of resource with dedicated car for O&M services across all part of Oman.'
       ),
       array(
         "project" => "ERICSSON",
@@ -175,8 +179,9 @@
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo'],
-          ["title" => 'Country', 'value' => 'Supply of resource with dedicated car and tools for drive test for Ericsson.']
-        ]
+          ["title" => 'Country', 'value' => ]
+        ],
+        "data"=>'Supply of resource with dedicated car and tools for drive test for Ericsson.'
       ),
       array(
         "project" => "ERICSSON",
@@ -186,9 +191,9 @@
         "description" => [
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
-          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo'],
-          ["title" => 'Country', 'value' => 'Service Offerings Network Deployment']
-        ]
+          ["title" => 'End Customer', 'value' => 'Omantel & Ooredoo']
+        ],
+        "data"=>'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -629,7 +634,8 @@
 
             <!-- Logo Box -->
             <div class="logo-box d-flex align-items-center">
-              <div class="logo"><a href="index.html"><img class="header-logo" src="images/Logo/vyklogo-01.png" alt="" title=""></a>
+              <div class="logo"><a href="index.html"><img class="header-logo" src="images/Logo/vyklogo-01.png" alt=""
+                    title=""></a>
               </div>
             </div>
 
@@ -781,13 +787,16 @@
                       </h5>
                     </div>
                   </div>
-                  <div class="p-3 m-0 text-justify gallery-block_one-heading fw-normal fs-6 split-in-left">
-                    <ul>
+                  <div class="p-3 m-0 text-justify d-lg-flex gallery-block_one-heading fw-normal fs-6 split-in-left">
+                    <ul class="w-50">
                       <?php foreach ($project['description'] as $description) {
                         echo "<li><b>" . $description['title'] . '</b>';
                         echo $description['title'] ? " : " : '';
                         echo $description['value'] . "</li>";
                       } ?>
+                    </ul>
+                    <ul>
+                      <?php echo "<li>" . $project['data'] ; ?>
                     </ul>
                   </div>
                 </div>
