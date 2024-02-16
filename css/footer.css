@@ -73,7 +73,7 @@
 .main-footer .widgets-section{
 	position:relative;
 	margin-top: -118px;
-	padding: 200px 0px 50px;
+	padding: 200px 35px 50px;
 }
 
 .footer-title{
@@ -149,7 +149,9 @@
 	padding-left: 85px;
 	margin-bottom: 25px;
 }
-
+.links-widget{
+	padding: 0px 37px;
+}
 .news-widget_image{
 	position: absolute;
 	left: 0px;
