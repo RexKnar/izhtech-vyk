@@ -1152,6 +1152,7 @@
 	overflow: hidden;
 	border: 1px solid #4cdf84;
 	border-radius: 15px;
+	min-height: 330px;
 }
 
 .gallery-block_one-image{
