@@ -6,7 +6,7 @@
   <title>VYK Networks LLC | Your Telecom Partner</title>
   <!-- Stylesheets -->
   <link href="css/bootstrap.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
   <link href="css/responsive.css" rel="stylesheet">
 
   <!-- Color Switcher Mockup -->
@@ -629,7 +629,7 @@
 
             <!-- Logo Box -->
             <div class="logo-box d-flex align-items-center">
-              <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a>
+              <div class="logo"><a href="index.html"><img class="header-logo" src="images/Logo/vyklogo-01.png" alt="" title=""></a>
               </div>
             </div>
 
@@ -767,7 +767,7 @@
               // print_r($project);
               ?>
               <div class="col-xs-12 col-sm-6 col-md-6 grid-item ">
-                <div class="gallery-block_one-inner">
+                <div class="gallery-block_one-inner gallery-height">
                   <div class="gallery-block_one-overlay">
                   </div>
                   <div style="display: flex;">
