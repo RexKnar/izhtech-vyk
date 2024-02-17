@@ -42,7 +42,7 @@
 	}
 
 	.fluid-one .right-box {
-		padding-left: var(--padding-left-30);
+		/* padding-left: var(--padding-left-30); */
 	}
 
 	.benefit-one {
@@ -271,7 +271,7 @@
 
 	.fluid-one .right-box {
 		width: 100%;
-		padding-left: var(--padding-left-15);
+		/* padding-left: var(--padding-left-15); */
 	}
 
 	.fluid-one .right-box_inner {
@@ -1130,7 +1130,7 @@
 
 	.testimonial-two_color-layer {
 		position: absolute;
-		left: 28px;
+		left: 39px;
 		top: 0px;
 		width: 120px;
 		bottom: 0px;
@@ -1145,7 +1145,7 @@
 	}
 
 	.product-img {
-		margin-left: 64px !important;
+		margin-left: 88px !important;
 	}
 
 	.footer_column {

@@ -1093,7 +1093,7 @@ img{
 .sec-title{
 	position:relative;
 	z-index:1;
-	margin-bottom:var(--margin-bottom-35);
+	/* margin-bottom:var(--margin-bottom-35); */
 }
 
 .sec-title_title{
@@ -1116,6 +1116,7 @@ img{
 	font-size:var(--font-17);
     color: var(--color-three);
 	margin-top:var(--margin-top-15);
+    text-align: justify;
 }
 
 .sec-title.light .sec-title_title{
