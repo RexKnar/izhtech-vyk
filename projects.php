@@ -2021,7 +2021,7 @@
                   <!-- Footer Column -->
                   <div class="mx-auto footer_column col-lg-4 col-md-6 col-sm-12">
                     <div class="m-auto footer-widget links-widget">
-                      <h5 class="footer-title">Links</h5>
+                      <h5 class="footer-title">Quick Links</h5>
                       <ul class="footer-list">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="about.html">About Us</a></li>

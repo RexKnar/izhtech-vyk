@@ -189,7 +189,12 @@
 	.address-tab-inner-one{
 		width: 100%;
 	}
-
+	.contact-page-section-two .info-column {
+		order: 1;
+	}
+	.contact-page-section-two .map-column {
+		order: 2;
+	}
 }
 
 @media only screen and (min-width: 768px) {
