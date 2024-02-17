@@ -125,8 +125,8 @@
 		display: block;
 		position: absolute;
 		left: 0px;
-		top: 1px;
-		right: 0px;
+		top: -50px;
+		right: 13px;
 		bottom: -22px;
 		background-position: center right;
 		background-repeat: no-repeat;
@@ -134,7 +134,7 @@
 	}
 
 	.about-two_icon {
-		left: 0px;
+		left: 45px;
 	}
 
 	.about-two_content-outer {
@@ -1168,8 +1168,104 @@
 	.project-logos {
 		width: 20%;
 	}
-	.address-image{
+
+	.address-image {
 		padding-bottom: 20px;
 	}
-	
+
+	.header-logo{
+		width: 100px;
+	}
+
+	.about-two_pattern {
+		display: block;
+		position: absolute;
+		left: 0px;
+		top: 1px;
+		right: 0px;
+		bottom: -22px;
+		background-position: center right;
+		background-repeat: no-repeat;
+		background-size: 28em;
+	}
+	.about-two_icon{
+		left: 0px;
+	}
+}
+
+@media only screen and (max-width: 770px) and (min-width:430px) {
+	.about-two_pattern {
+		display: block;
+		position: absolute;
+		left: 0px;
+		top: -12px;
+		right: 224px;
+		bottom: -24px;
+		background-position: center right;
+		background-repeat: no-repeat;
+		background-size: 26em;
+	}
+	.about-two_icon {
+		position: absolute;
+		left: 140px;
+		bottom: 50px;
+		width: 120px;
+		height: 115px;
+		text-align: center;
+		border-radius: 100px;
+		line-height: 109px;
+		font-size: var(--font-80);
+		color: var(--main-color);
+		font-family: "flaticon_monic-flat";
+		background-color: var(--white-color);
+		box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.10);
+		-webkit-animation: icon-bounce 0.8s ease-out infinite;
+		animation: icon-bounce 0.8s ease-out infinite;
+	}
+	.service-img {
+		width: 289px !important;
+		margin-left: 190px !important;
+	}
+}
+
+@media only screen and (max-width: 380px) {
+	.about-two_pattern {
+		display: block;
+		position: absolute;
+		left: 0px;
+		top: 1px;
+		right: 0px;
+		bottom: -22px;
+		background-position: center right;
+		background-repeat: no-repeat;
+		background-size: 24em;
+	}
+	.about-two_icon {
+		left: 0px;
+	}
+
+}
+
+@media only screen and (max-width: 330px) {
+	.about-two_pattern {
+		display: block;
+		position: absolute;
+		left: 0px;
+		top: 1px;
+		right: 0px;
+		bottom: -22px;
+		background-position: center right;
+		background-repeat: no-repeat;
+		background-size: 21em;
+	}
+	.about-two_icon {
+		left: 0px;
+	}
+
+	/* .service-img {
+			margin-left: 40px !important;
+			width: 350px !important;
+			padding-top: 30px !important;
+		} */
+
 }
