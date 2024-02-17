@@ -1154,6 +1154,7 @@
 
 	.grid-item {
 		padding: 0px;
+		margin-top: 30px;
 	}
 
 	.counter-column {
@@ -1170,4 +1171,5 @@
 	.address-image{
 		padding-bottom: 20px;
 	}
+	
 }
