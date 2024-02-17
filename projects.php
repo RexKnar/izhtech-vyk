@@ -1588,7 +1588,7 @@
         "data" => "IT/TELECOMMUNICATION/ICT."
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed COM. residential BLD at AL KHUWAIR",
         "period" => "2015 - 2016",
@@ -1600,7 +1600,7 @@
         "data" => "Supply and installation of all MEP material and installation."
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed COM Residential BLD at GHALA",
         "period" => "2017 - 2019",
@@ -1612,7 +1612,7 @@
         "data" => "Supply and installation of all MEP material and installation."
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed at NIZWA Industrial Estate",
         "period" => "2017 - 2018",
@@ -1624,7 +1624,7 @@
         "data" => "Supply and installation of all MEP material and installation."
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Proposed Pet Bottle Factory at SUMAIL Industrial Estate",
         "period" => "2017 - 2018",
@@ -1636,7 +1636,7 @@
         "data" => "Supply and installation of all MEP material and installation."
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed COM Residential BLD at GHALA",
         "period" => "2017 - 2018",
@@ -1648,7 +1648,7 @@
         "data" => "Supply and installation of all MEP material and installation."
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed COM and Residential BLD at AL KHUWAIR",
         "period" => "2018 - 2019",
@@ -1660,7 +1660,7 @@
         "data" => "Supply and installation of all MEP material and installation."
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP works at Propossed Storage Warehouse at BARKA",
         "period" => "2019 - 2020",
@@ -1672,7 +1672,7 @@
         "data" => "Supply and installation of all MEP material and installation"
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at 1000 Men Camp at BARKA",
         "period" => "2019 - 2020",
@@ -1684,7 +1684,7 @@
         "data" => "Supply and installation of all MEP material and installation"
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed COM and Residential BLD at AZAIBA",
         "period" => "2019 - 2020",
@@ -1696,7 +1696,7 @@
         "data" => "Supply and installation of all MEP material and installation"
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at A1 Fence Factory at BURAIMI Industrial Estate",
         "period" => "2019 - 2020",
@@ -1708,7 +1708,7 @@
         "data" => "Supply and installation of all MEP material and installation"
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed COM and Residential BLD at DUQM B+G+8",
         "period" => "2019 - 2021",
@@ -1720,7 +1720,7 @@
         "data" => "AL NADA INDUSTRIES / LEEYANA ENGINEERING CONSULTANCY"
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works Propossed Labour Camp at DUQM",
         "period" => "2019 - 2022",
@@ -1732,7 +1732,7 @@
         "data" => "AL NADA INDUSTRIES / LEEYANA ENGINEERING CONSULTANCY"
       ),
       array(
-        "project" => "ICT",
+        "project" => "MEP",
         "logo" => "images/clients/MEP.jpg",
         "title" => "MEP Works at Propossed Materials Storage Warehouse at SAHAM",
         "period" => "2019 - 2022",
@@ -1937,9 +1937,9 @@
                       <img src="<?php echo $project['logo']; ?>" alt="Avatar">
                     </div>
                     <div class="w-75">
-                      <h5 class="gallery-block_one-heading"><b>
+                      <h5 class="gallery-block_one-heading">
                           <?php echo $project['title']; ?>
-                        </b></h5>
+                        </h5>
                       <h5 class="gallery-block_one-heading">
                         <?php echo $project['period']; ?>
                       </h5>

@@ -188,7 +188,7 @@
 	/* padding: 20px 0px; */
 }
 .header-logo{
-	width:140px;
+	width:120px;
 }
 .main-header .header-lower{
 	position:relative;
@@ -209,7 +209,7 @@
 }
 
 .main-header.fixed-header .logo-box .logo{
-	padding: 15px 0px;
+	/* padding: 15px 0px; */
 }
 
 .main-header .header-upper .logo-box{
