@@ -186,7 +186,9 @@
 	.address-item{
 		border: none;
 	}
-	
+	.address-tab-inner-one{
+		width: 100%;
+	}
 
 }
 
