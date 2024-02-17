@@ -178,6 +178,15 @@
 	.team-detail_two .image-column .image {
 		margin-right: var(--margin-zero);
 	}
+	.contact-page-section-two .info li .address-tab{
+		padding: 0px;
+		padding-top: 10px;
+		padding-left: 10px;
+	}
+	.address-item{
+		border: none;
+	}
+	
 
 }
 
@@ -1085,7 +1094,7 @@
 	}
 
 	.contact-page-section-two .info li {
-		padding: 5px 0px 5px 0px;
+		padding: 5px 0px 5px 10px;
 		padding-bottom: var(--padding-bottom-20);
 	}
 
@@ -1190,6 +1199,9 @@
 	}
 	.about-two_icon{
 		left: 0px;
+	}
+	.address-tab-inner{
+		width: 100%;
 	}
 }
 
