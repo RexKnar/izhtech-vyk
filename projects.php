@@ -228,7 +228,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Omantel']
         ],
-        "data" =>'Service Offerings Network Deployment'
+        "data" => 'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -240,7 +240,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Omantel']
         ],
-        "data" =>'Service Offerings Network Deployment'
+        "data" => 'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -252,7 +252,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => ' Ooredoo']
         ],
-        "data" =>'Service Offerings Network Deployment'
+        "data" => 'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -264,7 +264,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => ' Ooredoo']
         ],
-        "data" =>'Service Offerings Network Deployment'
+        "data" => 'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -276,7 +276,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => ' Ooredoo']
         ],
-        "data" =>'Service Offerings Professional Services'
+        "data" => 'Service Offerings Professional Services'
       ),
       array(
         "project" => "ERICSSON",
@@ -288,7 +288,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Omantel']
         ],
-        "data" =>'Service Offerings Network Deployment Services'
+        "data" => 'Service Offerings Network Deployment Services'
       ),
       array(
         "project" => "ERICSSON",
@@ -300,7 +300,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Omantel']
         ],
-        "data" =>'Service Offerings Network Deployment'
+        "data" => 'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -312,7 +312,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Nawras']
         ],
-        "data" =>'Service Offerings Professional Services'
+        "data" => 'Service Offerings Professional Services'
       ),
       array(
         "project" => "ERICSSON",
@@ -324,7 +324,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Nawras']
         ],
-        "data" =>'Service Offerings Network Deployment'
+        "data" => 'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -336,7 +336,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Omantel']
         ],
-        "data" =>'Service Offerings Network Deployment'
+        "data" => 'Service Offerings Network Deployment'
       ),
       array(
         "project" => "ERICSSON",
@@ -348,7 +348,7 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Nawras']
         ],
-        "data" =>'Service Offerings Professional Services'
+        "data" => 'Service Offerings Professional Services'
       ),
       array(
         "project" => "ERICSSON",
@@ -360,69 +360,69 @@
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'Omantel']
         ],
-        "data"=>'Service Offerings Installation & Commissioning of microwave links, SRAN.'
+        "data" => 'Service Offerings Installation & Commissioning of microwave links, SRAN.'
       ),
       array(
         "project" => "ERICSSON",
         "logo" => "images/clients/Ericsson.png",
         "title" => "Ericsson CIVIL WORKS Project",
-        "period" =>"",
+        "period" => "",
         "description" => [
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Main Contractor', 'value' => 'Ericsson'],
           ["title" => 'End Customer', 'value' => 'MOD']
         ],
-        "data"=>'Service Offerings Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of microwave links, Installation of solar power system.'
+        "data" => 'Service Offerings Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of microwave links, Installation of solar power system.'
       ),
       array(
         "project" => "ERICSSON",
         "logo" => "images/clients/Ericsson.png",
         "title" => "RF & LOS survey",
-        "period"=> 'Omantel-From 2012, Vodafone-From 2020',
+        "period" => 'Omantel-From 2012, Vodafone-From 2020',
         "description" => [
           ["title" => 'Operator/Consultant:', 'value' => "Oman, Omantel & Vodafone"]
         ],
-        "data"=>'TTSR & LOS survey for new and existing towers for both Ericsson client.'
+        "data" => 'TTSR & LOS survey for new and existing towers for both Ericsson client.'
       ),
       array(
         "project" => "ERICSSON",
         "logo" => "images/clients/Ericsson.png",
         "title" => "RAN Instatallation",
-        "period"=> 'Omantel-From 2012, Vodafone-From 2020',
+        "period" => 'Omantel-From 2012, Vodafone-From 2020',
         "description" => [
           ["title" => 'Operator/Consultant:', 'value' => "Oman, Omantel & Vodafone"]
         ],
-        "data"=>'Implementation and integration of 2g,3g,4g and 5g networks all over Oman.'
+        "data" => 'Implementation and integration of 2g,3g,4g and 5g networks all over Oman.'
       ),
       array(
         "project" => "ERICSSON",
         "logo" => "images/clients/Ericsson.png",
         "title" => "MW installation",
-        "period"=> 'Omantel-From 2012, Vodafone-From 2020',
+        "period" => 'Omantel-From 2012, Vodafone-From 2020',
         "description" => [
           ["title" => 'Operator/Consultant:', 'value' => "Oman, Omantel & Vodafone"]
         ],
-        "data"=>'Implementation and integration of different MW links'
+        "data" => 'Implementation and integration of different MW links'
       ),
       array(
         "project" => "ERICSSON",
         "logo" => "images/clients/Ericsson.png",
         "title" => "DRIVE TEST",
-        "period"=> 'From 2012',
+        "period" => 'From 2012',
         "description" => [
           ["title" => 'Operator/Consultant:', 'value' => "Omantel"]
         ],
-        "data"=>'Drive test for indoor & outdoor equipments.'
+        "data" => 'Drive test for indoor & outdoor equipments.'
       ),
       array(
         "project" => "ERICSSON",
         "logo" => "images/clients/Ericsson.png",
         "title" => "IBS installation",
-        "period"=> 'From 2020',
+        "period" => 'From 2020',
         "description" => [
           ["title" => 'Operator/Consultant:', 'value' => "Vodafone"]
         ],
-        "data"=>'IBS installation of telecom equipments.'
+        "data" => 'IBS installation of telecom equipments.'
       ),
       array(
         "project" => "OMANTEL",
@@ -434,7 +434,7 @@
           ["title" => 'Account', 'value' => 'Omantel'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works- Oil Filed area.'
+        "data" => 'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works- Oil Filed area.'
       ),
       array(
         "project" => "OMANTEL",
@@ -446,7 +446,7 @@
           ["title" => 'Account', 'value' => 'Omantel'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works at Various Omantel sites in the Sultanate of Oman.'
+        "data" => 'Design , Supply & Installation of Telecom Towers and Construction of Boundary Walls & Chanilink fencing with Allied works at Various Omantel sites in the Sultanate of Oman.'
       ),
       array(
         "project" => "OMANTEL",
@@ -456,9 +456,9 @@
         "description" => [
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Account', 'value' => 'Omantel'],
-          ["title" => 'Operator', 'value' => 'Omantel'] 
+          ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>'Design , Supply & Installation of Security Fencing for GRDU at Various Omantel Sites.'
+        "data" => 'Design , Supply & Installation of Security Fencing for GRDU at Various Omantel Sites.'
       ),
       array(
         "project" => "OMANTEL",
@@ -470,7 +470,7 @@
           ["title" => 'Account', 'value' => 'Omantel'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"General Civil Works Maintenance at various Omantel Sites in the Sultanate of Oman."
+        "data" => "General Civil Works Maintenance at various Omantel Sites in the Sultanate of Oman."
       ),
       array(
         "project" => "OMANTEL",
@@ -482,7 +482,7 @@
           ["title" => 'Account', 'value' => 'Omantel'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of 2G, 3G LTE."
+        "data" => "Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of 2G, 3G LTE."
       ),
       array(
         "project" => "OMANTEL",
@@ -494,9 +494,9 @@
           ["title" => 'Account', 'value' => 'OTP'],
           ["title" => 'Operator', 'value' => 'OTP']
         ],
-        "data"=>"Maintenance and repairing of existing GSM sites & telecom Exchanges."
+        "data" => "Maintenance and repairing of existing GSM sites & telecom Exchanges."
       ),
-      
+
       array(
         "project" => "OMANTEL",
         "logo" => "images/clients/19_files/Omantel.png",
@@ -507,7 +507,7 @@
           ["title" => 'Account', 'value' => 'Omantel'],
           ["title" => 'Operator', 'value' => 'Ericsson']
         ],
-        "data"=>"Service Offerings Network Deployment"
+        "data" => "Service Offerings Network Deployment"
       ),
       array(
         "project" => "OMANTEL",
@@ -519,7 +519,7 @@
           ["title" => 'Account', 'value' => 'Omantel'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Network Deployment"
+        "data" => "Service Offerings Network Deployment"
       ),
       array(
         "project" => "OMANTEL",
@@ -531,10 +531,10 @@
           ["title" => 'Account', 'value' => 'Omantel'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Network Deployment"
+        "data" => "Service Offerings Network Deployment"
       ),
       array(
-        "project" =>"OTC",
+        "project" => "OTC",
         "logo" => "images/clients/19_files/OTC.png",
         "title" => "Design, Supply and Installation of Power Supply",
         "period" => "2021 - Ongoing",
@@ -543,10 +543,10 @@
           ["title" => 'Account', 'value' => 'OTC'],
           ["title" => 'Operator', 'value' => 'OTC']
         ],
-        "data"=>"Maintenance of Telecom Towers"
-      ), 
+        "data" => "Maintenance of Telecom Towers"
+      ),
       array(
-        "project" =>"OTC",
+        "project" => "OTC",
         "logo" => "images/clients/19_files/OTC.png",
         "title" => "Maintenance of Telecom Tower and Power Infrastructure",
         "period" => "2020 - Ongoing",
@@ -555,10 +555,10 @@
           ["title" => 'Account', 'value' => 'Oman Towers'],
           ["title" => 'Operator', 'value' => 'Oman Towers']
         ],
-        "data"=>"Tower Construction and Power connection"
+        "data" => "Tower Construction and Power connection"
       ),
       array(
-        "project" =>"OTC",
+        "project" => "OTC",
         "logo" => "images/clients/19_files/OTC.png",
         "title" => "Turnkey Rooftop Site Supply and Construction",
         "period" => "2018 - Ongoing",
@@ -566,10 +566,10 @@
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Operator/Consultant', 'value' => 'VODFONE / OOREDOO/ OMANTEL'],
         ],
-        "data"=>"Special towers camouflage structures/ Moziaque towers"
+        "data" => "Special towers camouflage structures/ Moziaque towers"
       ),
       array(
-        "project" =>"OTC",
+        "project" => "OTC",
         "logo" => "images/clients/19_files/OTC.png",
         "title" => "Structure, Monopoly, Supply, and Interaction",
         "period" => "2018 - Ongoing",
@@ -577,37 +577,37 @@
           ["title" => 'Country', 'value' => "Oman"],
           ["title" => 'Operator/Consultant', 'value' => 'VODFONE / OOREDOO/ OMANTEL'],
         ],
-        "data"=>"Special towers camouflage structures/ Moziaque towers"
+        "data" => "Special towers camouflage structures/ Moziaque towers"
       ),
       array(
-        "project" =>"OTC",
+        "project" => "OTC",
         "logo" => "images/clients/19_files/OTC.png",
         "title" => "Maintenance of Telecom Tower Sites",
         "period" => "2021 - Ongoing",
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'VODFONE / OOREDOO/ OMANTEL'],
         ],
-        "data"=>"Existing tower maintenance"
+        "data" => "Existing tower maintenance"
       ),
       array(
-        "project" =>"OTC",
+        "project" => "OTC",
         "logo" => "images/clients/19_files/OTC.png",
         "title" => "Emergency Power Alarm Intervention",
         "period" => "2022 - Ongoing",
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'VODFONE / OOREDOO/ OMANTEL'],
         ],
-        "data"=>"Introduce new technology"
+        "data" => "Introduce new technology"
       ),
       array(
-        "project" =>"OTC",
+        "project" => "OTC",
         "logo" => "images/clients/19_files/OTC.png",
         "title" => "Supply of Turnkey Tower Sites",
         "period" => "2022 - Ongoing",
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'OTC/ VODFONE / OOREDOO/ OMANTEL'],
         ],
-        "data"=>"Supply and delivery of towers/ Monopole structures and camouflage"
+        "data" => "Supply and delivery of towers/ Monopole structures and camouflage"
       ),
       array(
         "project" => "OTC",
@@ -617,7 +617,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'OTC/ MOD'],
         ],
-        "data"=>"Monopole structures and camouflage"
+        "data" => "Monopole structures and camouflage"
       ),
       array(
         "project" => "PDO",
@@ -629,7 +629,7 @@
           ["title" => 'Account', 'value' => 'PDO'],
           ["title" => 'Operator', 'value' => 'PDO']
         ],
-        "data"=>"Installation, Blowing and termination of FOC"
+        "data" => "Installation, Blowing and termination of FOC"
       ),
       array(
         "project" => "PDO",
@@ -641,7 +641,7 @@
           ["title" => 'Account', 'value' => 'PDO'],
           ["title" => 'Operator', 'value' => 'PDO']
         ],
-        "data"=>"Supply of EXFO OLTS Test Unit for PDO"
+        "data" => "Supply of EXFO OLTS Test Unit for PDO"
       ),
       array(
         "project" => "PDO",
@@ -651,7 +651,7 @@
         "description" => [
           ["title" => 'Client', 'value' => "PDO"]
         ],
-        "data"=>"IT/ TELECOMMUNICATION/ ICT"
+        "data" => "IT/ TELECOMMUNICATION/ ICT"
       ),
       array(
         "project" => "PDO",
@@ -661,7 +661,7 @@
         "description" => [
           ["title" => 'Client', 'value' => "PDO"]
         ],
-        "data"=>"IT/ TELECOMMUNICATION/ ICT"
+        "data" => "IT/ TELECOMMUNICATION/ ICT"
       ),
       array(
         "project" => "PDO",
@@ -671,7 +671,7 @@
         "description" => [
           ["title" => 'Client', 'value' => "PDO"]
         ],
-        "data"=>"IT/ TELECOMMUNICATION/ ICT"
+        "data" => "IT/ TELECOMMUNICATION/ ICT"
       ),
       array(
         "project" => "PDO",
@@ -681,7 +681,7 @@
         "description" => [
           ["title" => 'Client', 'value' => "PDO"]
         ],
-        "data"=>"IT/ TELECOMMUNICATION/ ICT"
+        "data" => "IT/ TELECOMMUNICATION/ ICT"
       ),
       array(
         "project" => "PDO",
@@ -691,7 +691,7 @@
         "description" => [
           ["title" => 'Client', 'value' => "PDO"]
         ],
-        "data"=>"IT/ TELECOMMUNICATION/ ICT"
+        "data" => "IT/ TELECOMMUNICATION/ ICT"
       ),
       array(
         "project" => "OOREDOO",
@@ -701,7 +701,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=> 'Supply of OSP and FOC for Ooredoo projects'
+        'data' => 'Supply of OSP and FOC for Ooredoo projects'
       ),
       array(
         "project" => "OOREDOO",
@@ -711,7 +711,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=> 'Microwave Linking at different business sites for ooredoo'
+        'data' => 'Microwave Linking at different business sites for ooredoo'
       ),
       array(
         "project" => "OOREDOO",
@@ -721,7 +721,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=> 'MW Link, LOS transmission works, LTE FDD works for the new ooredoo sites.'
+        'data' => 'MW Link, LOS transmission works, LTE FDD works for the new ooredoo sites.'
       ),
       array(
         "project" => "OOREDOO",
@@ -731,7 +731,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=> 'Consultant.'
+        'data' => 'Consultant.'
       ),
       array(
         "project" => "OOREDOO",
@@ -741,7 +741,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=>'Drive test project.'
+        'data' => 'Drive test project.'
       ),
       array(
         "project" => "OOREDOO",
@@ -751,7 +751,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=>'Implementation and integration of different site.'
+        'data' => 'Implementation and integration of different site.'
       ),
       array(
         "project" => "OOREDOO",
@@ -761,7 +761,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=>'Implementation and integration of different MW links.'
+        'data' => 'Implementation and integration of different MW links.'
       ),
       array(
         "project" => "OOREDOO",
@@ -771,7 +771,7 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=>'LOS survey different sites.'
+        'data' => 'LOS survey different sites.'
       ),
       array(
         "project" => "OOREDOO",
@@ -781,10 +781,10 @@
         "description" => [
           ["title" => 'Operator/Consultant', 'value' => 'Ooredoo']
         ],
-        'data'=>'Broad band link connectivity.'
+        'data' => 'Broad band link connectivity.'
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "HUAWEI NEW TK Project",
         "period" => "2014-2015",
@@ -793,10 +793,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Huawei']
         ],
-        "data"=>"Service Offerings Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of 2G, 3G LTE."
+        "data" => "Service Offerings Building of new telecom sites, Construction of tower foundation, shelter foundation, erection of tower. Installation & Commissioning of 2G, 3G LTE."
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "Huawei RNPO Project",
         "period" => "2014-2015",
@@ -805,10 +805,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Huawei']
         ],
-        "data"=>"Service Offerings Network Planning, RF Planning & Design, RF Optimisation, Network Support System, IBS, 2G 3G LTE Drive Test"
+        "data" => "Service Offerings Network Planning, RF Planning & Design, RF Optimisation, Network Support System, IBS, 2G 3G LTE Drive Test"
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "CW & TI",
         "period" => "2013-2014",
@@ -817,10 +817,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Ooredoo']
         ],
-        "data"=>"Service Offerings Civil TK Project"
+        "data" => "Service Offerings Civil TK Project"
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "TI",
         "period" => "2010-2011",
@@ -829,10 +829,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Network Deployment"
+        "data" => "Service Offerings Network Deployment"
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "CW & TI",
         "period" => "2010-2011",
@@ -841,10 +841,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Nawras']
         ],
-        "data"=>"Service Offerings Professional Services"
+        "data" => "Service Offerings Professional Services"
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "T E/Datacom/NGT",
         "period" => "2009-2010",
@@ -853,10 +853,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Network Deployment"
+        "data" => "Service Offerings Network Deployment"
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "RF Planning & Optimizations/ DT services",
         "period" => "2013-2014",
@@ -865,10 +865,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Ooredoo']
         ],
-        "data"=>"Service Offerings RNO/RNP"
+        "data" => "Service Offerings RNO/RNP"
       ),
       array(
-        "project" =>"HUAWEI",
+        "project" => "HUAWEI",
         "logo" => "images/clients/19_files/Huwaei.png",
         "title" => "RF Planning & Optimizations/ DT services",
         "period" => "2013-2014",
@@ -877,10 +877,10 @@
           ["title" => 'Account', 'value' => 'Huawei'],
           ["title" => 'Operator', 'value' => 'Ooredoo']
         ],
-        "data"=>"Service Offerings RNO/RNP"
+        "data" => "Service Offerings RNO/RNP"
       ),
       array(
-        "project" =>"NSN",
+        "project" => "NSN",
         "logo" => "images/clients/19_files/NSN.png",
         "title" => "Resource Supply",
         "period" => "2010-2011",
@@ -889,10 +889,10 @@
           ["title" => 'Account', 'value' => 'NSN'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Professional Services"
+        "data" => "Service Offerings Professional Services"
       ),
       array(
-        "project" =>"NSN",
+        "project" => "NSN",
         "logo" => "images/clients/19_files/NSN.png",
         "title" => "Drive Test/NPO",
         "period" => "2009-2010",
@@ -901,10 +901,10 @@
           ["title" => 'Account', 'value' => 'NSN'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Professional Services"
+        "data" => "Service Offerings Professional Services"
       ),
       array(
-        "project" =>"NSN",
+        "project" => "NSN",
         "logo" => "images/clients/19_files/NSN.png",
         "title" => "Core/ebsc/Swap",
         "period" => "2009-2010",
@@ -913,10 +913,10 @@
           ["title" => 'Account', 'value' => 'NSN'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Professional Services"
+        "data" => "Service Offerings Professional Services"
       ),
       array(
-        "project" =>"NSN",
+        "project" => "NSN",
         "logo" => "images/clients/19_files/NSN.png",
         "title" => "Phase -4",
         "period" => "2007-2008",
@@ -925,10 +925,10 @@
           ["title" => 'Account', 'value' => 'NSN'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Professional Services"
+        "data" => "Service Offerings Professional Services"
       ),
       array(
-        "project" =>"SIEMENS",
+        "project" => "SIEMENS",
         "logo" => "images/clients/5.png",
         "title" => "Road Project",
         "period" => "2005-2006",
@@ -937,10 +937,10 @@
           ["title" => 'Account', 'value' => 'Siemens'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Network Deployment"
+        "data" => "Service Offerings Network Deployment"
       ),
       array(
-        "project" =>"SIEMENS",
+        "project" => "SIEMENS",
         "logo" => "images/clients/5.png",
         "title" => "Road Project",
         "period" => "2004-2005",
@@ -949,10 +949,10 @@
           ["title" => 'Account', 'value' => 'Siemens'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Service Offerings Network Deployment"
+        "data" => "Service Offerings Network Deployment"
       ),
       array(
-        "project" =>"ROP",
+        "project" => "ROP",
         "logo" => "images/clients/ROP-ROFA.jpg",
         "title" => "Supply and installation of Video wall System",
         "period" => "2018-2019",
@@ -961,10 +961,10 @@
           ["title" => 'Account', 'value' => 'ROP'],
           ["title" => 'Operator', 'value' => 'ROP']
         ],
-        "data"=>"Supply, Installation ,testing and commissioning of Video wall system"
+        "data" => "Supply, Installation ,testing and commissioning of Video wall system"
       ),
       array(
-        "project" =>"ROP",
+        "project" => "ROP",
         "logo" => "images/clients/ROP-ROFA.jpg",
         "title" => "Conferencing System",
         "period" => "2021-2021",
@@ -973,10 +973,10 @@
           ["title" => 'Account', 'value' => 'RAFO'],
           ["title" => 'Operator', 'value' => 'RAFO']
         ],
-        "data"=>"Installation and Configuration of Huawei Conferencing System"
+        "data" => "Installation and Configuration of Huawei Conferencing System"
       ),
       array(
-        "project" =>"ROP",
+        "project" => "ROP",
         "logo" => "images/clients/ROP-ROFA.jpg",
         "title" => "Supply, Installation and Configuration of Cloudland Box 300",
         "period" => "2022",
@@ -985,10 +985,10 @@
           ["title" => 'Account', 'value' => 'RAFO'],
           ["title" => 'Operator', 'value' => 'RAFO']
         ],
-        "data"=>" IT/TELECOMMUNICATION/ICT"
+        "data" => " IT/TELECOMMUNICATION/ICT"
       ),
       array(
-        "project" =>"ROP",
+        "project" => "ROP",
         "logo" => "images/clients/ROP-ROFA.jpg",
         "title" => "Supply and Installation of CCTV System and Video Conferencing System",
         "period" => "2022",
@@ -997,10 +997,10 @@
           ["title" => 'Account', 'value' => 'RAFO'],
           ["title" => 'Operator', 'value' => 'RAFO']
         ],
-        "data"=>" IT/TELECOMMUNICATION/ICT"
+        "data" => " IT/TELECOMMUNICATION/ICT"
       ),
       array(
-        "project" =>"ROP",
+        "project" => "ROP",
         "logo" => "images/clients/ROP-ROFA.jpg",
         "title" => "TOWER, VOR , RADAR AND SPECIAL PROJECTS FOR RAFO MASIRAH",
         "period" => "2023",
@@ -1009,10 +1009,10 @@
           ["title" => 'Account', 'value' => 'RAFO'],
           ["title" => 'Operator', 'value' => 'RAFO']
         ],
-        "data"=>" IT/TELECOMMUNICATION/ICT"
+        "data" => " IT/TELECOMMUNICATION/ICT"
       ),
       array(
-        "project" =>"ROP",
+        "project" => "ROP",
         "logo" => "images/clients/ROP-ROFA.jpg",
         "title" => "Desktop installation project for Motrolla all over Oman",
         "period" => "2023",
@@ -1021,10 +1021,10 @@
           ["title" => 'Account', 'value' => 'RAFO'],
           ["title" => 'Operator', 'value' => 'RAFO']
         ],
-        "data"=>" IT/TELECOMMUNICATION/ICT"
+        "data" => " IT/TELECOMMUNICATION/ICT"
       ),
       array(
-        "project" =>"ROP",
+        "project" => "ROP",
         "logo" => "images/clients/ROP-ROFA.jpg",
         "title" => "Fiber civil and FOC splicing and testing",
         "period" => "2023",
@@ -1033,10 +1033,10 @@
           ["title" => 'Account', 'value' => 'RAFO'],
           ["title" => 'Operator', 'value' => 'RAFO']
         ],
-        "data"=>" IT/TELECOMMUNICATION/ICT"
+        "data" => " IT/TELECOMMUNICATION/ICT"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "DCS Upgrade Phase II Fiber Optic Network",
         "period" => "2021 – ongoing",
@@ -1045,10 +1045,10 @@
           ["title" => 'Account', 'value' => 'AOTC'],
           ["title" => 'Operator', 'value' => 'Oman LNG']
         ],
-        "data"=>"Civil Work and FOC installation"
+        "data" => "Civil Work and FOC installation"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "FOC- OPGW Cable Splicing",
         "period" => "2021 – ongoing",
@@ -1057,10 +1057,10 @@
           ["title" => 'Account', 'value' => 'L & T'],
           ["title" => 'Operator', 'value' => 'PDO']
         ],
-        "data"=>"Fiber Optics OPGW Cable Splicing testing and Commissioning"
+        "data" => "Fiber Optics OPGW Cable Splicing testing and Commissioning"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "Fiber Optics Splicing",
         "period" => "2021 September – 2021 November",
@@ -1069,10 +1069,10 @@
           ["title" => 'Account', 'value' => 'GPS'],
           ["title" => 'Operator', 'value' => 'PDO']
         ],
-        "data"=>"Fiber Optics Splicing, Testing and Commissioning"
+        "data" => "Fiber Optics Splicing, Testing and Commissioning"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "Tower Erection",
         "period" => "2021 March – 2021 June",
@@ -1081,10 +1081,10 @@
           ["title" => 'Account', 'value' => 'STS'],
           ["title" => 'Operator', 'value' => 'Duqm Refinery and Petrofac']
         ],
-        "data"=>"Tower Erection"
+        "data" => "Tower Erection"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "Installation and AMC of Avaya IP Phones",
         "period" => "2018 - 2021",
@@ -1093,10 +1093,10 @@
           ["title" => 'Account', 'value' => 'Ubhar Capital'],
           ["title" => 'Operator', 'value' => 'Omantel']
         ],
-        "data"=>"Installation , Configuration, Testing and AMC of Avaya IP Phones"
+        "data" => "Installation , Configuration, Testing and AMC of Avaya IP Phones"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "FTTH Construction in Sohar",
         "period" => "2020",
@@ -1105,10 +1105,10 @@
           ["title" => 'Account', 'value' => 'OHI Telecom'],
           ["title" => 'Operator', 'value' => 'Oman Broadband']
         ],
-        "data"=>"FTTH Construction in Sohar for Oman Broadband"
+        "data" => "FTTH Construction in Sohar for Oman Broadband"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "FOC Installation",
         "period" => "2020 - Ongoing",
@@ -1117,10 +1117,10 @@
           ["title" => 'Account', 'value' => 'OHI Telecom'],
           ["title" => 'Operator', 'value' => 'ARA Drilling']
         ],
-        "data"=>"FOC Installation in PDO Sites"
+        "data" => "FOC Installation in PDO Sites"
       ),
       array(
-        "project" =>"FIBER OPTICS",
+        "project" => "FIBER OPTICS",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "FTTH Construction in Ibri",
         "period" => "2020",
@@ -1129,10 +1129,10 @@
           ["title" => 'Account', 'value' => 'Al Jassar Telecom LLC'],
           ["title" => 'Operator', 'value' => 'Oman Broadband']
         ],
-        "data"=>"FTTH Construction in Ibri Al Murtafa Al Dhahira Region for Oman Broadband"
+        "data" => "FTTH Construction in Ibri Al Murtafa Al Dhahira Region for Oman Broadband"
       ),
       array(
-        "project" =>"FIBER",
+        "project" => "FIBER",
         "logo" => "images/clients/Fiber-Optics.png",
         "title" => "FTTH Construction in Nizwa",
         "period" => "2019-2020",
@@ -1141,10 +1141,10 @@
           ["title" => 'Account', 'value' => 'Al Jassar Telecom LLC'],
           ["title" => 'Operator', 'value' => 'Oman Broadband']
         ],
-        "data"=>"FTTH Construction in Nizwa Farq-Al Dhakelyah Region for Oman Broadband"
+        "data" => "FTTH Construction in Nizwa Farq-Al Dhakelyah Region for Oman Broadband"
       ),
       array(
-        "project" =>"HELIOS",
+        "project" => "HELIOS",
         "logo" => "images/clients/Helios.png",
         "title" => "New Tower Construction and Strengthening of Tower",
         "period" => "2023",
@@ -1153,10 +1153,10 @@
           ["title" => 'Account', 'value' => ''],
           ["title" => 'Operator/Consultant', 'value' => 'Omantel']
         ],
-        "data"=>"Construction of tower foundation, pedestals and boundary walls with HTO standard."
+        "data" => "Construction of tower foundation, pedestals and boundary walls with HTO standard."
       ),
       array(
-        "project" =>"HELIOS",
+        "project" => "HELIOS",
         "logo" => "images/clients/Helios.png",
         "title" => "Tower Strengthing",
         "period" => "2023",
@@ -1165,10 +1165,10 @@
           ["title" => 'Account', 'value' => ''],
           ["title" => 'Operator/Consultant', 'value' => 'Vodafone, Omantel, Oredoo']
         ],
-        "data"=>"Fabrication of new bracing and leg members based on structural analysis report. Replacing existing members by new members."
+        "data" => "Fabrication of new bracing and leg members based on structural analysis report. Replacing existing members by new members."
       ),
       array(
-        "project" =>"HELIOS",
+        "project" => "HELIOS",
         "logo" => "images/clients/Helios.png",
         "title" => "Tower Maintenance",
         "period" => "2023",
@@ -1177,10 +1177,10 @@
           ["title" => 'Account', 'value' => ''],
           ["title" => 'Operator/Consultant', 'value' => 'Omantel, Oredoo']
         ],
-        "data"=>"Conduct detailed TSSR survey, fabrication and replacing of new members."
+        "data" => "Conduct detailed TSSR survey, fabrication and replacing of new members."
       ),
       array(
-        "project" =>"HELIOS",
+        "project" => "HELIOS",
         "logo" => "images/clients/Helios.png",
         "title" => "GRDU Maintenance",
         "period" => "2023",
@@ -1189,10 +1189,10 @@
           ["title" => 'Account', 'value' => ''],
           ["title" => 'Operator/Consultant', 'value' => 'Omantel']
         ],
-        "data"=>"Conduct detailed TSSR survey, fabrication and replacing of new members. protect the tower from collapse condition."
+        "data" => "Conduct detailed TSSR survey, fabrication and replacing of new members. protect the tower from collapse condition."
       ),
       array(
-        "project" =>"VODAFONE",
+        "project" => "VODAFONE",
         "logo" => "images/clients/19_files/vodafone.png",
         "title" => "Vodafone CO -Location",
         "period" => "2022-2023",
@@ -1201,10 +1201,10 @@
           ["title" => 'Account', 'value' => ''],
           ["title" => 'Operator/Consultant', 'value' => 'Omantel, Oredoo']
         ],
-        "data"=>"Supply and installation of ACDB's, Cable ladders & Antenna/MW brackets, Power connection."
+        "data" => "Supply and installation of ACDB's, Cable ladders & Antenna/MW brackets, Power connection."
       ),
       array(
-        "project" =>"VODAFONE",
+        "project" => "VODAFONE",
         "logo" => "images/clients/19_files/vodafone.png",
         "title" => "Vodafone Co-location",
         "period" => "2023",
@@ -1213,7 +1213,535 @@
           ["title" => 'Account', 'value' => ''],
           ["title" => 'Operator/Consultant', 'value' => 'Omantel, Oredoo']
         ],
-        "data"=>"Assembling and installation of tower structure. Installation and commissioning of Shelter, Rectifier and ACDB's."
+        "data" => "Assembling and installation of tower structure. Installation and commissioning of Shelter, Rectifier and ACDB's."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and installation of Huawei IP Telephony",
+        "period" => "2018 May – 2018 July",
+        "description" => [
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Account', 'value' => 'Advance Engineering LLC'],
+          ["title" => 'Operator', 'value' => 'Advance Engineering LLC']
+        ],
+        "data" => "Supply, installation, Testing and Commissioning of Huawei IP Telephony and Servers."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and installation of Nurse call System",
+        "period" => "2018-2020",
+        "description" => [
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Account', 'value' => 'Al Tasnim'],
+          ["title" => 'Operator', 'value' => 'Royal Court Affairs (RCA)']
+        ],
+        "data" => "Supply, installation, Testing and Commissioning of ASCOM nurse call system at Sohar Palace."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Installation of ELV Systems",
+        "period" => "2018-2020",
+        "description" => [
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Account', 'value' => ' Royal Crown Hotel'],
+          ["title" => 'Operator', 'value' => ' Royal Crown Hotel']
+        ],
+        "data" => "Installation, Configuration and testing of Complete ELV Systems."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Installation and AMC of Avaya IP Phones",
+        "period" => "2018-2020",
+        "description" => [
+          ["title" => 'Country', 'value' => "Oman"],
+          ["title" => 'Account', 'value' => 'Ubhar Capital'],
+          ["title" => 'Operator', 'value' => 'Omantel']
+        ],
+        "data" => "Installation , Configuration, Testing and AMC of Avaya IP Phones."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and Installation of Hospital token systems",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Ministry of Health-Bhawan Projects & Telecom"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply of Huawei Switches & IT Accessories",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Ministry of Education-Huawei"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and Installation of Hikvision CCTV System",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Smart Digital Technologies"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply of Server Storage",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Ministry of Manpower:Ibra college"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply of Cisco Switches",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Ministry of Education:Meridian IT"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and Installation of Avaya Telephone, CCTV, ACS Systems",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Yas Communication-Majid Water Cooler & Airconditioning"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and Installation of Huawei Data Switches",
+        "period" => "2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Ministry of Education:Meridian IT"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and Installation of ASCOM Nurse call System for Sohar Palace",
+        "period" => "2021",
+        "description" => [
+          ["title" => 'Client', 'value' => "RCA-2-Al Tasnim"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply, Installation and Configuration and AMC of Avaya IP Telephony",
+        "period" => "2021",
+        "description" => [
+          ["title" => 'Client', 'value' => "Omantel-Ubhar Capital"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and Installation of Video Wall ROP ROP 40000",
+        "period" => "2021",
+        "description" => [
+          ["title" => 'Client', 'value' => "ROP"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply, Installation and Configuration complete ELV systems (CCTV, WIFI, Data, Analog Telephony, Networking, PAI3GM System, SMATV)",
+        "period" => "2021",
+        "description" => [
+          ["title" => 'Client', 'value' => "Royal Crown Hotel-Advance Engineering LLC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply and Installation of Huawei IP Telephony, CCTV System & Server",
+        "period" => "2021",
+        "description" => [
+          ["title" => 'Client', 'value' => "Advance Engineering LLC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "WP#20 FTTH Construction in Nizwa",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "Oman Broadband-Al Jasser Telecom"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "WP#33 FTTH Construction in Sohar",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "Oman Broadband-OHI Telecom"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "VVP#41 FTTH Construction in Ibri",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "TCIL"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Supply of EXFO OLTS MAS 945",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "TCIL"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "WP#45 Civil and Telecom Works for Quriyat",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "Oman Fiber Optic Co. SAOC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "FOC Cable Work in Qarn Al Alam",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "PDO/Galfar"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "WP#55 FTTH Construction in Buraimi",
+        "period" => "2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "MOTOROLA"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "(HP2, HP4, HP5, HP6) Telecom Services",
+        "period" => "2019",
+        "description" => [
+          ["title" => 'Client', 'value' => "GPS"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "FOC Switch Installation",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => " Motrolla"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Work station Installation and Commissioning",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => " Motrolla"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "FOC Termination and Testing",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => "AOTC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Testing L&T",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => "AOTC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Rectification GPS",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => "GPS"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Relocation FOC",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => " OTC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/ICT.png",
+        "title" => "Gate barrier",
+        "period" => "2023",
+        "description" => [
+          ["title" => 'Client', 'value' => "GALFAR"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "IT/TELECOMMUNICATION/ICT."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed COM. residential BLD at AL KHUWAIR",
+        "period" => "2015 - 2016",
+        "description" => [
+          ["title" => 'Client', 'value' => "GOLDEN GROUP/ABDULLAH MUKADAM"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed COM Residential BLD at GHALA",
+        "period" => "2017 - 2019",
+        "description" => [
+          ["title" => 'Client', 'value' => "OMAN RESIDENCE/SPACE DESIGNERS INTL LLC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed at NIZWA Industrial Estate",
+        "period" => "2017 - 2018",
+        "description" => [
+          ["title" => 'Client', 'value' => "IDS / AL NADA ENGINEERING CONSUTANCY"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Proposed Pet Bottle Factory at SUMAIL Industrial Estate",
+        "period" => "2017 - 2018",
+        "description" => [
+          ["title" => 'Client', 'value' => "AL NADA INDUSTRIES / LEEYANA ENGINEERING CONSULTANCY"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed COM Residential BLD at GHALA",
+        "period" => "2017 - 2018",
+        "description" => [
+          ["title" => 'Client', 'value' => "DANA HOUSE /SPACE DESIGNERS INTL LLC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed COM and Residential BLD at AL KHUWAIR",
+        "period" => "2018 - 2019",
+        "description" => [
+          ["title" => 'Client', 'value' => "AL AMAL /SPACE DESIGNERS INTL LLC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation."
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP works at Propossed Storage Warehouse at BARKA",
+        "period" => "2019 - 2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "MD.NAZIR / AL SHAMIL ENGINEERING CONSULTANCY"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation"
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at 1000 Men Camp at BARKA",
+        "period" => "2019 - 2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "Synergy"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation"
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed COM and Residential BLD at AZAIBA",
+        "period" => "2019 - 2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "SUHIL AL BADAR CONSTRUCTION /ABDULLAH MUKADAM"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation"
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at A1 Fence Factory at BURAIMI Industrial Estate",
+        "period" => "2019 - 2020",
+        "description" => [
+          ["title" => 'Client', 'value' => "A1 FENCE / AL SHAMIL ENDINEERING CONSULTANCY"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "Supply and installation of all MEP material and installation"
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed COM and Residential BLD at DUQM B+G+8",
+        "period" => "2019 - 2021",
+        "description" => [
+          ["title" => 'Client', 'value' => "A1 FENCE / AL SHAMIL ENDINEERING CONSULTANCY"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "AL NADA INDUSTRIES / LEEYANA ENGINEERING CONSULTANCY"
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works Propossed Labour Camp at DUQM",
+        "period" => "2019 - 2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "AL RAHA INTL LLC / AL SHAMIL ENGINEERING CONSULTANCY"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "AL NADA INDUSTRIES / LEEYANA ENGINEERING CONSULTANCY"
+      ),
+      array(
+        "project" => "ICT",
+        "logo" => "images/clients/MEP.jpg",
+        "title" => "MEP Works at Propossed Materials Storage Warehouse at SAHAM",
+        "period" => "2019 - 2022",
+        "description" => [
+          ["title" => 'Client', 'value' => "AL MAJIDI / SPACE DESIGNERS INTL LLC"],
+          ["title" => '', 'value' => ''],
+          ["title" => '', 'value' => '']
+        ],
+        "data" => "AL NADA INDUSTRIES / LEEYANA ENGINEERING CONSULTANCY"
       ),
     ];
 
@@ -1315,7 +1843,8 @@
         <div class="menu-backdrop"></div>
         <div class="close-btn"><span class="icon far fa-times fa-fw"></span></div>
         <nav class="menu-box">
-          <div class="nav-logo"><a href="index-2.html"><img src="images/Logo/vyklogo-01.png" alt="" title=""></a></div>
+          <div class="nav-logo"><a href="index.html"><img class="header-logo" src="images/Logo/vyklogo-01.png" alt=""
+                title=""></a></div>
           <div class="menu-outer">
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
           </div>
@@ -1399,13 +1928,13 @@
             <?php foreach ($projects as $project) {
               // print_r($project);
               ?>
-              <div class="col-xs-12 col-sm-6 col-md-6 grid-item <?php echo $project['project']; ?>" >
+              <div class="col-xs-12 col-sm-6 col-md-6 grid-item <?php echo $project['project']; ?>">
                 <div class="gallery-block_one-inner gallery-height">
                   <div class="gallery-block_one-overlay">
                   </div>
                   <div style="display: flex;" class="pt-2 ps-2">
                     <div class="w-25">
-                      <img src="<?php echo  $project['logo']; ?>" alt="Avatar">
+                      <img src="<?php echo $project['logo']; ?>" alt="Avatar">
                     </div>
                     <div class="w-75">
                       <h5 class="gallery-block_one-heading"><b>
