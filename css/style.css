@@ -1246,6 +1246,7 @@
 .gallery-block_one-heading{
 	position: relative;
 	font-weight: 600;
+	color:#727885;
 	margin-top: var(--margin-top-10);
 }
 
