@@ -35,7 +35,7 @@
 }
 
 .footer-logo{
-	
+	/* padding: 10px; */
 	width: 83px;
 }
 
@@ -233,7 +233,7 @@
 
 .footer_column{
 	position: relative;
-	width: %;
+	/* width: ; */
 	margin-bottom: var(--margin-bottom-30);
 }
 
