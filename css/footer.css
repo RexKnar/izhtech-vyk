@@ -36,7 +36,7 @@
 
 .footer-logo{
 	
-	width: 120px;
+	width: 83px;
 }
 
 .footer-text{
@@ -73,7 +73,7 @@
 .main-footer .widgets-section{
 	position:relative;
 	margin-top: -118px;
-	padding: 200px 35px 50px;
+	padding: 200px -25px 50px;
 }
 
 .footer-title{
@@ -233,7 +233,7 @@
 
 .footer_column{
 	position: relative;
-	width: 25%;
+	width: %;
 	margin-bottom: var(--margin-bottom-30);
 }
 
