@@ -836,6 +836,10 @@
 	.contact-page-section-two .info-column .inner-column {
 		padding-left: 0px;
 	}
+
+	.links-widget{
+		padding: 0px 37px;
+	}
 }
 
 @media only screen and (max-width: 479px) {
