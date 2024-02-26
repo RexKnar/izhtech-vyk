@@ -35,8 +35,8 @@
 }
 
 .footer-logo{
-	position: relative;
-	margin-bottom: var(--margin-bottom-20);
+	
+	width: 120px;
 }
 
 .footer-text{
@@ -150,7 +150,7 @@
 	margin-bottom: 25px;
 }
 .links-widget{
-	padding: 0px 37px;
+	padding: 120px 37px;
 }
 .news-widget_image{
 	position: absolute;
