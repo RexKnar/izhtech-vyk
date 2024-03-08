@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>VYK Networks Pvt. Ltd | Your Telecom Partner</title>
+    <title>VYK Network Pvt. Ltd | Your Telecom Partner</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -169,7 +169,7 @@
                             <ul class="contact-one_info-list">
                                 <li>
                                     <span class="icon flaticon-map"></span>
-                                    <span class="fw-bold">VYK Network LLc</span><br>
+                                    <span class="fw-bold">VYK Network Pvt. Ltd</span><br>
                                     Ansal Town,<br>
                                     Indore, India.
 
@@ -295,15 +295,6 @@
 
                                             </div>
                                         </div>
-                                        <!-- <div class="gap-2 pb-4 d-lg-flex align-items-center w-lg-50">
-                                            <div class="address-image"><img src="./images/Logo/logo.png" alt="">
-                                            </div>
-                                            <div><strong>We Network LLC,</strong><br>
-                                                Office #M08,BU,Ameen Building 01,<br>
-                                                PO Box : 66374<br>
-                                                Al Karama, Dubai, UAE.</div>
-                                        </div> -->
-
                                     </div>
                                 </li>
                                 <li>

@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>VYK Networks LLC | Your Telecom Partner</title>
+  <title>VYK Network Pvt. Ltd | Your Telecom Partner</title>
   <!-- Stylesheets -->
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="./css/style.css" rel="stylesheet">
@@ -1995,7 +1995,7 @@
                       <ul class="footer-contact_list">
                         <li><span class="icon fas fa-map-marker-alt fa-fw"></span>
                           AHCL Ansal Town,<br>Indore, India.</li>
-                        <li><span class="icon fas fa-envelope fa-fw"></span>info@vyknetworkpvtltd.com
+                        <li><span class="icon fas fa-envelope fa-fw"></span>info@vyknetwork.com
                         </li>
                         <li><span class="icon fas fa-phone fa-fw"></span>+919131755703</li>
                       </ul>
