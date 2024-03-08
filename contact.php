@@ -48,7 +48,7 @@
                             <ul class="header-list">
                                 <li><span class="icon fas fa-clock fa-fw"></span>Mon - Sat: 8:00am - 6:00pm</li>
                                 <li><span class="icon fas fa-envelope fa-fw"></span><a
-                                        href="mailto:needhelp@company.com">info@vyknetworkpvtltd.com</a></li>
+                                        href="mailto:needhelp@company.com">info@vyknetwork.com</a></li>
                             </ul>
                             <div class="flex-wrap right-box d-flex align-items-center">
 
@@ -169,7 +169,7 @@
                             <ul class="contact-one_info-list">
                                 <li>
                                     <span class="icon flaticon-map"></span>
-                                    <span class="fw-bold">VYK Network Pvt. Ltd.</span><br>
+                                    <span class="fw-bold">VYK Network LLc</span><br>
                                     Ansal Town,<br>
                                     Indore, India.
 
@@ -208,6 +208,9 @@
 
                             <!-- Default Form -->
                             <div class="default-form contact-form">
+                                 <p class="ajax-response <?php echo isset($_GET['error']) ? 'text-danger' : 'text-success' ?> "> <?php echo isset($_GET['error']) ? 'OOPS! Something went wrong, Please try again later':''   ?></p> 
+                                 <p class="ajax-response <?php echo isset($_GET['success']) ? 'text-success' : 'text-success' ?> "> <?php echo isset($_GET['success']) ? 'Thanks for contacting us! Our team will contact you soon.':'Thanks for contacting us! Our team will contact yu soon.'   ?></p> 
+         
                                 <form method="post" action="contact-us.php">
                                     <div class="clearfix row">
 
@@ -397,7 +400,7 @@
                                                 <li><span class="icon fas fa-map-marker-alt fa-fw"></span>
                                                     AHCL Ansal Town,<br>Indore, India.</li>
                                                 <li><span
-                                                        class="icon fas fa-envelope fa-fw"></span>info@vyknetworkpvtltd.com
+                                                        class="icon fas fa-envelope fa-fw"></span>info@vyknetworkp.com
                                                 </li>
                                                 <li><span class="icon fas fa-phone fa-fw"></span>+919131755703</li>
                                             </ul>
@@ -411,7 +414,7 @@
                                         <img class="footer-logo" src="./images/Logo/we-network-white-logo-01.svg" alt="">
                                     </div>
                                     <div class="footer-widget contact-widget">
-                                        <h5 class="footer-title">WE Netwok LLC</h5>
+                                        <h5 class="footer-title">WE Network LLC</h5>
                                         <ul class="footer-contact_list">
                                             <li><span class="icon fas fa-map-marker-alt fa-fw"></span>First floor,
                                                 0401-Z-319-KOM-4,<br>
