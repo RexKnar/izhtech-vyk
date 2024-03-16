@@ -5473,7 +5473,7 @@ readers do not read off random characters that represent icons */
 }
 
 .fa-play:before {
-  content: "\f04b";
+  /* content: "\f04b"; */
 }
 
 .fa-play-circle:before {
