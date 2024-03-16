@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>VYK Networks Pvt. Ltd | Your Telecom Partner</title>
+    <title>VYK Network Pvt. Ltd | Your Telecom Partner</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -99,7 +99,7 @@
                                         <li><a href="./product.html">Product</a></li>
                                         <li><a href="./projects.php">Projects</a></li>
                                         <li><a href="./gallery.html">Gallery</a></li>
-                                        <li><a href="./contact.html">Contact</a></li>
+                                        <li class="current"><a href="./contact.html">Contact</a></li>
                                     </ul>
                                 </div>
                             </nav>
@@ -169,7 +169,7 @@
                             <ul class="contact-one_info-list">
                                 <li>
                                     <span class="icon flaticon-map"></span>
-                                    <span class="fw-bold">VYK Network LLc</span><br>
+                                    <span class="fw-bold">VYK Network Pvt. Ltd</span><br>
                                     Ansal Town,<br>
                                     Indore, India.
 
@@ -295,15 +295,6 @@
 
                                             </div>
                                         </div>
-                                        <!-- <div class="gap-2 pb-4 d-lg-flex align-items-center w-lg-50">
-                                            <div class="address-image"><img src="./images/Logo/logo.png" alt="">
-                                            </div>
-                                            <div><strong>We Network LLC,</strong><br>
-                                                Office #M08,BU,Ameen Building 01,<br>
-                                                PO Box : 66374<br>
-                                                Al Karama, Dubai, UAE.</div>
-                                        </div> -->
-
                                     </div>
                                 </li>
                                 <li>
@@ -380,78 +371,77 @@
 
         <!-- Main Footer / Style Three -->
         <footer class="main-footer style-three" style="background-color: #4c4c4c;">
-            <div class="auto-container">
-                <div class="inner-container">
-                    <!-- Widgets Section -->
-                    <div class="widgets-section">
-                        <div class="clearfix row">
+        <div class="auto-container">
+            <div class="inner-container">
+                <!-- Widgets Section -->
+                <div class="widgets-section">
+                    <div class="row clearfix">
 
 
-                            <!-- Footer Column 4 -->
-                            <div class="footer_column col-lg-4 col-md-6 col-sm-12">
-                                <div class="d-flex">
-                                    <div class="p-2" style="display: flex; align-items: center;">
-                                        <img class="footer-logo" src="./images/Logo/vyklogo-white-01.svg" alt="">
-                                    </div>
-                                    <div class="footer-widget contact-widget">
-                                        <h5 class="footer-title">VYK Network Pvt.Ltd</h5>
-                                        <ul class="footer-contact_list">
-                                            <ul class="footer-contact_list">
-                                                <li><span class="icon fas fa-map-marker-alt fa-fw"></span>
-                                                    AHCL Ansal Town,<br>Indore, India.</li>
-                                                <li><span
-                                                        class="icon fas fa-envelope fa-fw"></span>info@vyknetworkp.com
-                                                </li>
-                                                <li><span class="icon fas fa-phone fa-fw"></span>+919131755703</li>
-                                            </ul>
-                                    </div>
+                        <!-- Footer Column 4 -->
+                        <div class="footer_column  col-lg-4 col-md-6 col-sm-12">
+                            <div class="d-flex">
+                                <div class="p-2" style="display: flex; align-items: center;">
+                                    <img class="footer-logo" src="./images/Logo/vyklogo-white-01.svg" alt="">
                                 </div>
-                            </div>
-                            <!-- Footer Column 4 -->
-                            <div class="footer_column col-lg-4 col-md-6 col-sm-12">
-                                <div class="d-flex">
-                                    <div class="p-2" style="display: flex; align-items: center;">
-                                        <img class="footer-logo" src="./images/Logo/we-network-white-logo-01.svg" alt="">
-                                    </div>
-                                    <div class="footer-widget contact-widget">
-                                        <h5 class="footer-title">WE Network LLC</h5>
+                                <div class="footer-widget contact-widget">
+                                    <h5 class="footer-title"><a href="#">VYK Network Pvt.Ltd</a></h5>
+                                    <ul class="footer-contact_list">
                                         <ul class="footer-contact_list">
-                                            <li><span class="icon fas fa-map-marker-alt fa-fw"></span>First floor,
-                                                0401-Z-319-KOM-4,<br>
-                                                Knowledge Oasis Muscat,<br>PO BOX: 1641, Postal Code: 114,<br>Al Rusayl,
-                                                Muscat,
-                                                Sultanate of Oman</li>
-
+                                            <li><span class="icon fas fa-map-marker-alt fa-fw"></span>
+                                                AHCL Ansal Town,<br>Indore, India.</li>
+                                            <li><span class="icon fas fa-envelope fa-fw"></span>info@vyknetwork.com
+                                            </li>
+                                            <li><span class="icon fas fa-phone fa-fw"></span>+919131755703</li>
                                         </ul>
-                                    </div>
                                 </div>
                             </div>
+                        </div>
+                        <!-- Footer Column 4 -->
+                        <div class="footer_column  col-lg-4 col-md-6 col-sm-12">
+                            <div class="d-flex">
+                                <div class="p-2" style="display: flex; align-items: center;">
+                                    <img class="footer-logo" src="./images/Logo/we-network-white-logo-01.svg" alt="">
+                                </div>
+                                <div class="footer-widget contact-widget">
+                                    <h5 class="footer-title"><a href="https://www.wenetworkllc.com/">WE Netwok LLC</a></h5>
+                                    <ul class="footer-contact_list">
+                                        <li><span class="icon fas fa-map-marker-alt fa-fw"></span>First floor,
+                                            0401-Z-319-KOM-4,<br>
+                                            Knowledge Oasis Muscat,<br>PO BOX: 1641, Postal Code: 114,<br>Al Rusayl,
+                                            Muscat,
+                                            Sultanate of Oman</li>
 
-                            <!-- Footer Column 5 -->
-                            <div class="footer_column col-lg-4 col-md-6 col-sm-12 centered">
-                                <div class="footer-widget contact-widget ps-4">
-                                    <h5 class="footer-title">Quick Links</h5>
-                                    <ul class="footer-list">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="product.html">Products</a></li>
-                                        <li><a href="projects.php">Projects</a></li>
-                                        <li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
                                     </ul>
                                 </div>
+                            </div>
+                        </div>
+
+                        <!-- Footer Column 5 -->
+                        <div class="footer_column col-lg-4 col-md-6 col-sm-12 centered">
+                            <div class="footer-widget contact-widget ps-4">
+                                <h5 class="footer-title">Quick Links</h5>
+                                <ul class="footer-list">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="services.html">Services</a></li>
+                                    <li><a href="product.html">Products</a></li>
+                                    <li><a href="projects.php">Projects</a></li>
+                                    <li><a href="gallery.html">Gallery</a></li>
+                                    <li><a href="contact.html">Contact Us</a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="footer-bottom">
-                <div class="auto-container">
-                    <div class="main-footer_copyright">Designed by <a href="#">Izh-tech</a></div>
-                </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="auto-container">
+                <div class="main-footer_copyright">Copyright © 2024 <a href="#">VYK Netwok Pvt. Ltd</a>, All Rights Reserved. Designed by <a href="izhtech.com">Izh-tech</a></div>
             </div>
-        </footer>
+        </div>
+    </footer>
         <!-- End Footer Style -->
 
 

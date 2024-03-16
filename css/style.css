@@ -1148,10 +1148,7 @@
 
 .gallery-block_one-inner{
 	position: relative;
-	overflow: hidden;
-	border: 1px solid #4cdf84;
-	border-radius: 15px;
-	min-height: 284px;
+	
 }
 
 .gallery-block_one-image{
@@ -1171,7 +1168,7 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
-    display: flex;
+    /* display: flex; */
     align-items: center;
     justify-content: center;
     transition: -webkit-transform 0.4s ease;
@@ -1183,7 +1180,7 @@
     -webkit-transform-origin: right center;
     -ms-transform-origin: right center;
     transform-origin: right center;
-	background-color:rgba(var(--color-two-rgb), 0.70);
+	
 	border-radius: 15px;
 	opacity: .5;
 }
@@ -1199,8 +1196,8 @@
     transform: scale(1, 1);
     -webkit-transform-origin: left center;
     -ms-transform-origin: left center;
-    transform-origin: left center;
-	opacity: .5;
+    transform-origin:center;
+	opacity: 5;
 	border-radius: 15px;
 }
 
@@ -1286,36 +1283,35 @@
 /* Gallery Block One Play */
 
 .gallery-block_one-play{
-	position:absolute;
+	/* position:absolute;
 	left: 50%;
 	top: 50%;
-	transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%); */
 }
 
 .gallery-block_one-play span{
 	position: relative;
-	width:70px;
-	height: 70px;
+	width:100%;
+	height: 100%;
 	z-index:10;
 	font-weight:700;
 	text-align: center;
 	display: inline-block;
-	line-height:70px;
+	line-height:150px;
 	border-radius:50%;
 	font-size:var(--font-18);
 	color: var(--main-color);
-	background-color: var(--white-color);
-	-webkit-transition:all 500ms ease;
+	/* background-color: var(--white-color); */
+	/* -webkit-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
-	transition:all 500ms ease;
+	transition:all 500ms ease; */
 	font-family: 'Font Awesome 5 Pro';
 }
 
 .gallery-block_one-play span:hover{
 	color:var(--white-color);
-	background-color:var(--main-color);
 }
 
 .gallery-block_one-play .ripple,
@@ -1735,7 +1731,7 @@
 	opacity: 0.80;
 	transform: scale(1.05,1.05) rotate(2deg);
 	-webkit-animation: shine 1s;
-	animation: shine 1s;
+	animation: shine 5s;
 }
 
 #card>img::before{
@@ -1753,6 +1749,9 @@
 	-webkit-transform: skewX(-25deg);
 	-ms-transform: skewX(-25deg);
 	transform: skewX(-25deg);
+}
+#gallery img{
+	transition: all 0.2s ease-in;
 }
 
 /* .news-block_one-image:before{
