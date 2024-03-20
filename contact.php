@@ -176,7 +176,7 @@
                                 </li>
                                 <li>
                                     <span class="icon flaticon-map"></span>
-                                    <span class="fw-bold">We Network LLC</span><span class="fs-6 fw-light ps-1">(Parent
+                                    <span class="fw-bold"><a href="https://www.wenetworkllc.com/">We Network LLC</a></span><span class="fs-6 fw-light ps-1">(Parent
                                         Company)</span><br>
                                     Office No - 222,<br>
                                     2nd floor Alfardan Heights,<br>
@@ -323,7 +323,7 @@
                                                     alt="">
                                             </div>
                                             <div>
-                                                <p class="mb-0"><strong>Oasis Badminton Academy</strong></p>
+                                                <p class="mb-0"><a href="https://oasisbadmintonacademy.com/"><strong>Oasis Badminton Academy</strong></a></p>
                                                 <p class="mb-0"> Street No-319, Building-1510/1,</p>
                                                 <p class="mb-0">PO:3369, PC-111</p>
                                                 <p class="mb-0">Ghala industrial area, Bousher</p>
@@ -338,7 +338,7 @@
                                             <div class="address-image"><img src="./images/Logo/MRM-LOGO.png" alt="">
                                             </div>
                                             <div>
-                                                <p class="mb-0"><strong>Malwa Retreat Mandu</strong></p>
+                                                <p class="mb-0"><a href="http://malwaretreatmandu.com/"><strong>Malwa Retreat Mandu</strong></a></p>
                                                 <p class="mb-0">Naka main road, Mandu Dist. Dhar,</p>
                                                 <p class="mb-0">Madhya Pradesh,</p>
                                                 <p class="mb-0">India 454020</p>
